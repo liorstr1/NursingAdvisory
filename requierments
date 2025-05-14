@@ -1,0 +1,8 @@
+dotenv==0.9.9
+pymongo==4.13.0
+google==3.0.0
+google-genai==1.9.0
+google-cloud-storage==2.18.2
+google-cloud-pubsub==2.27.1
+google-cloud-secret-manager==2.22.1
+pytz==2025.2
