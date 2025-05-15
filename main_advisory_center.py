@@ -53,7 +53,8 @@ class AdvisoryCenter:
         if self.init_callback:
             self.init_callback()
 
-    def handle_message(self, message):
+    @staticmethod
+    def handle_message(message):
         """Handle incoming message from PubSub"""
         try:
             client_id = message["client_id"]

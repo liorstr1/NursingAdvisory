@@ -1,6 +1,11 @@
-from pymongo import MongoClient
+import os
 from datetime import datetime
 import pytz
+from dotenv import load_dotenv
+
+from entities import DEV, PROD, LOCAL
+
+load_dotenv()
 
 
 def get_available_staff_by_specialty(db, specialty_name):
@@ -44,3 +49,8 @@ def get_time_in_epoc():
     import datetime
     current_time = datetime.datetime.now()
     return int(current_time.timestamp() * 1000)
+
+
+def get_pubsub_postfix():
+    is_local = os.getenv("ENVIRONMENT") == LOCAL or os.getenv("ENVIRONMENT") == DEV
+    return DEV if is_local else PROD

@@ -10,7 +10,6 @@ keep_running = True
 
 
 def signal_handler(_, __):
-    """Handle termination signals"""
     global keep_running
     print("\nReceived termination signal. Shutting down...")
     keep_running = False
@@ -72,7 +71,9 @@ async def run_main_test():
         await start_main_process()
 
     # Run your test here
-    print("Running test...")
+    print("Running test one session")
+    test_active_one_session()
+
 
     # Add your actual test code here
     print("Simulating test operations...")

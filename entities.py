@@ -1,2 +1,5 @@
 MAIN_ADVISORY_PUBSUB_PREFIX = "main_advisory"
 NURSING_ADVISORY_COLLECTION_NAME = "nursing_advisory_data"
+LOCAL = "local"
+DEV = "dev"
+PROD = "prod"
