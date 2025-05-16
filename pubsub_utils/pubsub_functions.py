@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from services.pubsub_service import PubSubService
+from pubsub_utils.pubsub_service import PubSubService
 from services.secret_manager_service import SecretManagerService
 from dotenv import load_dotenv
 from helper_methods import get_pubsub_postfix

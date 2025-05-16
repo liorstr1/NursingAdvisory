@@ -1,5 +1,5 @@
 from enum import Enum
-
+PROJECT_NAME = "NursingAdvisory"
 NURSING_ADVISORY_COLLECTION_NAME = "nursing_advisory_data"
 LOCAL = "local"
 DEV = "dev"

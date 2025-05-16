@@ -3,7 +3,7 @@ import time
 import asyncio
 from dotenv import load_dotenv
 
-from agents.advisory_manager_agent import MainManagerAgent
+from agents.manager_agent import MainManagerAgent
 from running_one_session import ActiveSession
 load_dotenv()
 

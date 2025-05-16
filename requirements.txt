@@ -7,3 +7,5 @@ google-cloud-pubsub==2.27.1
 google-cloud-secret-manager==2.22.1
 pytz==2025.2
 langchain==0.3.25
+anthropic==0.51.0
+openai== 1.78.1
