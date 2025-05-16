@@ -1,23 +1,15 @@
-import os
 import threading
 import time
 import asyncio
 from dotenv import load_dotenv
-from pymongo import MongoClient
 
-from entities import MAIN_ADVISORY_PUBSUB_PREFIX
-from pubsub_service import PubSubService
+from agents.advisory_manager_agent import MainManagerAgent
 from running_one_session import ActiveSession
-from secret_manager_service import SecretManagerService
 load_dotenv()
 
 
 class AdvisoryCenter:
-    def __init__(self, database=os.environ.get("LOCAL_DB")):
-        self.mongo_client = MongoClient(os.environ.get("MONGO_CLIENT"))
-        self.db = self.mongo_client[database]
-        self.pubsub_service = PubSubService('botit1')
-        self.secret_manager = SecretManagerService('botit1')
+    def __init__(self):
         self._lock = threading.Lock()
         self.running = False
         self.listener_thread = None
@@ -28,6 +20,7 @@ class AdvisoryCenter:
         self.active_sessions: dict[str, ActiveSession] = {}
         self._lock = threading.Lock()
         self._running = False
+        self.advisory_manager = MainManagerAgent()
         print("Advisory Center initialized")
 
     def set_init_callback(self, callback):
@@ -36,18 +29,6 @@ class AdvisoryCenter:
             self.init_callback()
 
     def initialize(self):
-        topic_name = f'incoming_messages{MAIN_ADVISORY_PUBSUB_PREFIX}'
-        subscription_name = f'incoming_messages{MAIN_ADVISORY_PUBSUB_PREFIX}_sub'
-        self.pubsub_service.check_or_create_topic(topic_name)
-        self.pubsub_service.check_or_create_subscription(topic_name, subscription_name)
-
-        self.pubsub_service.subscribe_to_topic(
-            topic_name=topic_name,
-            subscription_name=subscription_name,
-            message_handler=self.handle_message
-        )
-
-        print(f"MessageListener initialized and subscribed to {topic_name}")
         self.initialized = True
         self.init_event.set()
         if self.init_callback:
@@ -66,8 +47,6 @@ class AdvisoryCenter:
 
     def cleanup(self):
         self.running = False
-        if self.mongo_client:
-            self.mongo_client.close()
 
     def start_in_background(self):
         self.running = True

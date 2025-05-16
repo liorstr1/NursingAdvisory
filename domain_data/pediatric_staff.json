@@ -1,0 +1,6942 @@
+[
+  {
+    "first_name": "גילי",
+    "last_name": "ברק",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 8,
+    "education_years": 4,
+    "degree_type": "MD",
+    "phone_number": "051-7179655",
+    "availability": {
+      "שישי": [
+        "10:00-18:00"
+      ],
+      "שלישי": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0001"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "מזרחי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 17,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "051-1473547",
+    "availability": {
+      "רביעי": [
+        "11:00-20:00"
+      ],
+      "שני": [
+        "12:00-17:00"
+      ]
+    },
+    "id": "STAFF-0002"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "הרשקוביץ",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 15,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "051-4440589",
+    "availability": {
+      "שישי": [
+        "11:00-15:00"
+      ],
+      "ראשון": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0003"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "אביב",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 22,
+    "education_years": 8,
+    "degree_type": "MD מומחית",
+    "phone_number": "050-8460006",
+    "availability": {
+      "רביעי": [
+        "11:00-20:00"
+      ],
+      "שלישי": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0004"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "מזרחי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 24,
+    "education_years": 12,
+    "degree_type": "MD",
+    "phone_number": "055-9118566",
+    "availability": {
+      "שישי": [
+        "11:00-20:00"
+      ],
+      "שלישי": [
+        "14:00-20:00"
+      ]
+    },
+    "id": "STAFF-0005"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "ישראלי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 19,
+    "education_years": 6,
+    "degree_type": "MD מומחית",
+    "phone_number": "052-2025189",
+    "availability": {
+      "שני": [
+        "9:00-19:00"
+      ],
+      "שלישי": [
+        "13:00-20:00"
+      ]
+    },
+    "id": "STAFF-0006"
+  },
+  {
+    "first_name": "תמר",
+    "last_name": "הרשקוביץ",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 9,
+    "education_years": 11,
+    "degree_type": "MD",
+    "phone_number": "052-5701077",
+    "availability": {
+      "שני": [
+        "8:00-15:00"
+      ],
+      "שלישי": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0007"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "גולדשטיין",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 7,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "055-6789453",
+    "availability": {
+      "שלישי": [
+        "14:00-20:00"
+      ],
+      "חמישי": [
+        "14:00-15:00"
+      ]
+    },
+    "id": "STAFF-0008"
+  },
+  {
+    "first_name": "תמר",
+    "last_name": "כץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 6,
+    "education_years": 11,
+    "degree_type": "MD מומחית",
+    "phone_number": "058-7395020",
+    "availability": {
+      "רביעי": [
+        "12:00-19:00"
+      ]
+    },
+    "id": "STAFF-0009"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "הרשקוביץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 10,
+    "degree_type": "MD מומחית",
+    "phone_number": "055-7388715",
+    "availability": {
+      "שלישי": [
+        "9:00-19:00"
+      ],
+      "שישי": [
+        "12:00-19:00"
+      ]
+    },
+    "id": "STAFF-0010"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "גולדשטיין",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 9,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "055-1159198",
+    "availability": {
+      "שני": [
+        "10:00-18:00"
+      ]
+    },
+    "id": "STAFF-0011"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "אביב",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 9,
+    "education_years": 6,
+    "degree_type": "MD",
+    "phone_number": "052-8810217",
+    "availability": {
+      "שני": [
+        "13:00-18:00"
+      ],
+      "חמישי": [
+        "10:00-17:00"
+      ]
+    },
+    "id": "STAFF-0012"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "ברק",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "054-8648938",
+    "availability": {
+      "שלישי": [
+        "14:00-15:00"
+      ],
+      "שישי": [
+        "12:00-15:00"
+      ]
+    },
+    "id": "STAFF-0013"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "כץ",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 12,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "051-9608835",
+    "availability": {
+      "שני": [
+        "12:00-16:00"
+      ],
+      "רביעי": [
+        "10:00-15:00"
+      ]
+    },
+    "id": "STAFF-0014"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "גולדשטיין",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "058-3828042",
+    "availability": {
+      "ראשון": [
+        "12:00-15:00"
+      ],
+      "שלישי": [
+        "9:00-20:00"
+      ]
+    },
+    "id": "STAFF-0015"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "ברק",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 15,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "051-6327630",
+    "availability": {
+      "חמישי": [
+        "11:00-18:00"
+      ],
+      "רביעי": [
+        "10:00-19:00"
+      ]
+    },
+    "id": "STAFF-0016"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "אלמוג",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "051-4885695",
+    "availability": {
+      "שני": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0017"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "אביב",
+    "role": "רופא",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 3,
+    "education_years": 10,
+    "degree_type": "MD",
+    "phone_number": "058-6529038",
+    "availability": {
+      "חמישי": [
+        "10:00-18:00"
+      ],
+      "שלישי": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0018"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "לוי",
+    "role": "רופא",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 17,
+    "education_years": 7,
+    "degree_type": "MD",
+    "phone_number": "056-5888055",
+    "availability": {
+      "חמישי": [
+        "12:00-16:00"
+      ],
+      "רביעי": [
+        "8:00-16:00"
+      ]
+    },
+    "id": "STAFF-0019"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "כץ",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 23,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "053-5889470",
+    "availability": {
+      "ראשון": [
+        "8:00-15:00"
+      ],
+      "רביעי": [
+        "8:00-17:00"
+      ]
+    },
+    "id": "STAFF-0020"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "אביב",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 17,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "058-6603022",
+    "availability": {
+      "ראשון": [
+        "8:00-19:00"
+      ],
+      "חמישי": [
+        "11:00-16:00"
+      ]
+    },
+    "id": "STAFF-0021"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "רוזנברג",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "058-7315436",
+    "availability": {
+      "ראשון": [
+        "10:00-15:00"
+      ],
+      "רביעי": [
+        "14:00-20:00"
+      ]
+    },
+    "id": "STAFF-0022"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "מזרחי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 21,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "056-4193569",
+    "availability": {
+      "שישי": [
+        "14:00-18:00"
+      ],
+      "שלישי": [
+        "8:00-15:00"
+      ]
+    },
+    "id": "STAFF-0023"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "רוזנברג",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 10,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "058-7384063",
+    "availability": {
+      "שני": [
+        "13:00-16:00"
+      ],
+      "ראשון": [
+        "9:00-15:00"
+      ]
+    },
+    "id": "STAFF-0024"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "פרידמן",
+    "role": "רופא",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 18,
+    "education_years": 12,
+    "degree_type": "MD",
+    "phone_number": "059-5979748",
+    "availability": {
+      "שלישי": [
+        "13:00-15:00"
+      ],
+      "שישי": [
+        "13:00-16:00"
+      ]
+    },
+    "id": "STAFF-0025"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "אביב",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 18,
+    "education_years": 5,
+    "degree_type": "MD מומחית",
+    "phone_number": "055-8710416",
+    "availability": {
+      "שני": [
+        "10:00-16:00"
+      ],
+      "שלישי": [
+        "14:00-16:00"
+      ]
+    },
+    "id": "STAFF-0026"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "אלמוג",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Cardiology",
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים",
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 3,
+    "education_years": 8,
+    "degree_type": "MD מומחית",
+    "phone_number": "056-3092144",
+    "availability": {
+      "חמישי": [
+        "11:00-20:00"
+      ]
+    },
+    "id": "STAFF-0027"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "שחר",
+    "role": "רופאה",
+    "specialties_english": [
+      "General Pediatrics",
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית",
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 25,
+    "education_years": 5,
+    "degree_type": "MD מומחית",
+    "phone_number": "053-8993180",
+    "availability": {
+      "שני": [
+        "12:00-19:00"
+      ],
+      "שלישי": [
+        "10:00-17:00"
+      ]
+    },
+    "id": "STAFF-0028"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "נבון",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 9,
+    "education_years": 9,
+    "degree_type": "MD",
+    "phone_number": "053-2120624",
+    "availability": {
+      "רביעי": [
+        "9:00-17:00"
+      ]
+    },
+    "id": "STAFF-0029"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "ישראלי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 4,
+    "education_years": 4,
+    "degree_type": "RN",
+    "phone_number": "052-7812263",
+    "availability": {
+      "שני": [
+        "13:00-19:00"
+      ],
+      "חמישי": [
+        "9:00-19:00"
+      ]
+    },
+    "id": "STAFF-0030"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "כהן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 8,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "051-2987761",
+    "availability": {
+      "שלישי": [
+        "11:00-15:00"
+      ],
+      "שישי": [
+        "14:00-16:00"
+      ]
+    },
+    "id": "STAFF-0031"
+  },
+  {
+    "first_name": "יעל",
+    "last_name": "רוזנברג",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 9,
+    "degree_type": "MD",
+    "phone_number": "056-9678155",
+    "availability": {
+      "שלישי": [
+        "12:00-17:00"
+      ],
+      "חמישי": [
+        "8:00-18:00"
+      ]
+    },
+    "id": "STAFF-0032"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "פרידמן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 4,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "059-8191376",
+    "availability": {
+      "שני": [
+        "14:00-15:00"
+      ]
+    },
+    "id": "STAFF-0033"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "אלמוג",
+    "role": "רופא",
+    "specialties_english": [
+      "General Pediatrics",
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית",
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 24,
+    "education_years": 3,
+    "degree_type": "MD",
+    "phone_number": "059-4807377",
+    "availability": {
+      "חמישי": [
+        "12:00-19:00"
+      ],
+      "רביעי": [
+        "9:00-20:00"
+      ]
+    },
+    "id": "STAFF-0034"
+  },
+  {
+    "first_name": "תמר",
+    "last_name": "ישראלי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 24,
+    "education_years": 4,
+    "degree_type": "MD",
+    "phone_number": "058-5455779",
+    "availability": {
+      "רביעי": [
+        "11:00-20:00"
+      ],
+      "שישי": [
+        "10:00-19:00"
+      ]
+    },
+    "id": "STAFF-0035"
+  },
+  {
+    "first_name": "יעל",
+    "last_name": "ישראלי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 18,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "058-3363586",
+    "availability": {
+      "ראשון": [
+        "8:00-16:00"
+      ]
+    },
+    "id": "STAFF-0036"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "ברק",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 22,
+    "education_years": 3,
+    "degree_type": "MD מומחית",
+    "phone_number": "052-9683538",
+    "availability": {
+      "שלישי": [
+        "9:00-20:00"
+      ]
+    },
+    "id": "STAFF-0037"
+  },
+  {
+    "first_name": "תמר",
+    "last_name": "אביב",
+    "role": "רופא",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 6,
+    "education_years": 10,
+    "degree_type": "MD",
+    "phone_number": "050-9898404",
+    "availability": {
+      "שלישי": [
+        "11:00-15:00"
+      ],
+      "רביעי": [
+        "14:00-16:00"
+      ]
+    },
+    "id": "STAFF-0038"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "אביב",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 21,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "058-2565831",
+    "availability": {
+      "שני": [
+        "11:00-19:00"
+      ],
+      "שלישי": [
+        "11:00-17:00"
+      ]
+    },
+    "id": "STAFF-0039"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "גולדשטיין",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 14,
+    "education_years": 12,
+    "degree_type": "MD מומחית",
+    "phone_number": "052-1793084",
+    "availability": {
+      "ראשון": [
+        "8:00-20:00"
+      ],
+      "רביעי": [
+        "12:00-16:00"
+      ]
+    },
+    "id": "STAFF-0040"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "ברק",
+    "role": "רופא",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 14,
+    "education_years": 12,
+    "degree_type": "MD",
+    "phone_number": "058-7426541",
+    "availability": {
+      "ראשון": [
+        "9:00-18:00"
+      ],
+      "שני": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0041"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "פרידמן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 8,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "052-2378026",
+    "availability": {
+      "ראשון": [
+        "10:00-17:00"
+      ]
+    },
+    "id": "STAFF-0042"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "נבון",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 18,
+    "education_years": 5,
+    "degree_type": "MD",
+    "phone_number": "053-6309202",
+    "availability": {
+      "רביעי": [
+        "11:00-15:00"
+      ],
+      "שני": [
+        "9:00-17:00"
+      ]
+    },
+    "id": "STAFF-0043"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "לוי",
+    "role": "רופא",
+    "specialties_english": [
+      "Emergency Pediatric Support",
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים",
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 8,
+    "education_years": 6,
+    "degree_type": "MD",
+    "phone_number": "052-1893126",
+    "availability": {
+      "שני": [
+        "10:00-18:00"
+      ],
+      "ראשון": [
+        "9:00-20:00"
+      ]
+    },
+    "id": "STAFF-0044"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "רוזנברג",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 6,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "055-4668307",
+    "availability": {
+      "שני": [
+        "8:00-15:00"
+      ],
+      "ראשון": [
+        "10:00-16:00"
+      ]
+    },
+    "id": "STAFF-0045"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "גולדשטיין",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 6,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "051-2710128",
+    "availability": {
+      "רביעי": [
+        "9:00-19:00"
+      ],
+      "שני": [
+        "14:00-19:00"
+      ]
+    },
+    "id": "STAFF-0046"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "פרידמן",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Ophthalmology",
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים",
+      "רפואת עור ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 15,
+    "education_years": 10,
+    "degree_type": "MD",
+    "phone_number": "059-5482538",
+    "availability": {
+      "שישי": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0047"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "שטרן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 24,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "058-7799009",
+    "availability": {
+      "שישי": [
+        "8:00-16:00"
+      ],
+      "שלישי": [
+        "10:00-18:00"
+      ]
+    },
+    "id": "STAFF-0048"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "ברק",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 22,
+    "education_years": 9,
+    "degree_type": "MD מומחית",
+    "phone_number": "054-9253785",
+    "availability": {
+      "ראשון": [
+        "11:00-17:00"
+      ],
+      "שלישי": [
+        "9:00-19:00"
+      ]
+    },
+    "id": "STAFF-0049"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "נבון",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 10,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "057-7729039",
+    "availability": {
+      "חמישי": [
+        "8:00-15:00"
+      ],
+      "שלישי": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0050"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "שטרן",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology",
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים",
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 7,
+    "education_years": 5,
+    "degree_type": "MD",
+    "phone_number": "054-8362455",
+    "availability": {
+      "שני": [
+        "9:00-15:00"
+      ],
+      "שישי": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0051"
+  },
+  {
+    "first_name": "יעל",
+    "last_name": "גולדשטיין",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 4,
+    "education_years": 4,
+    "degree_type": "MD",
+    "phone_number": "057-6729805",
+    "availability": {
+      "חמישי": [
+        "13:00-19:00"
+      ],
+      "רביעי": [
+        "13:00-15:00"
+      ]
+    },
+    "id": "STAFF-0052"
+  },
+  {
+    "first_name": "יעל",
+    "last_name": "שטרן",
+    "role": "רופא",
+    "specialties_english": [
+      "Emergency Pediatric Support",
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים",
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 11,
+    "education_years": 5,
+    "degree_type": "MD",
+    "phone_number": "057-3769816",
+    "availability": {
+      "ראשון": [
+        "10:00-19:00"
+      ],
+      "רביעי": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0053"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "כץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology",
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים",
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 24,
+    "education_years": 3,
+    "degree_type": "MD מומחית",
+    "phone_number": "056-5494125",
+    "availability": {
+      "חמישי": [
+        "8:00-19:00"
+      ],
+      "שני": [
+        "10:00-16:00"
+      ]
+    },
+    "id": "STAFF-0054"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "כץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Dermatology",
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים",
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 15,
+    "education_years": 6,
+    "degree_type": "MD מומחית",
+    "phone_number": "053-4534626",
+    "availability": {
+      "חמישי": [
+        "8:00-18:00"
+      ],
+      "שישי": [
+        "11:00-17:00"
+      ]
+    },
+    "id": "STAFF-0055"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "מזרחי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 4,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "051-8269050",
+    "availability": {
+      "שישי": [
+        "14:00-20:00"
+      ],
+      "רביעי": [
+        "13:00-19:00"
+      ]
+    },
+    "id": "STAFF-0056"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "לוי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Dermatology",
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים",
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 13,
+    "education_years": 11,
+    "degree_type": "MD",
+    "phone_number": "052-3184558",
+    "availability": {
+      "שלישי": [
+        "10:00-20:00"
+      ],
+      "רביעי": [
+        "9:00-20:00"
+      ]
+    },
+    "id": "STAFF-0057"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "אביב",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 14,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "057-7384287",
+    "availability": {
+      "חמישי": [
+        "10:00-17:00"
+      ],
+      "שישי": [
+        "11:00-19:00"
+      ]
+    },
+    "id": "STAFF-0058"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "אביב",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 12,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "055-7300672",
+    "availability": {
+      "חמישי": [
+        "14:00-15:00"
+      ],
+      "שלישי": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0059"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "גולדשטיין",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 7,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "053-7283163",
+    "availability": {
+      "שני": [
+        "8:00-19:00"
+      ],
+      "חמישי": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0060"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "אביב",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "רפואת עור ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 3,
+    "education_years": 11,
+    "degree_type": "MD",
+    "phone_number": "051-7660019",
+    "availability": {
+      "ראשון": [
+        "12:00-17:00"
+      ],
+      "שני": [
+        "12:00-17:00"
+      ]
+    },
+    "id": "STAFF-0061"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "כץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 3,
+    "education_years": 4,
+    "degree_type": "MD מומחית",
+    "phone_number": "051-2688528",
+    "availability": {
+      "שני": [
+        "10:00-18:00"
+      ],
+      "ראשון": [
+        "12:00-16:00"
+      ]
+    },
+    "id": "STAFF-0062"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "גולדשטיין",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 3,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "054-3419735",
+    "availability": {
+      "חמישי": [
+        "14:00-19:00"
+      ],
+      "ראשון": [
+        "14:00-18:00"
+      ]
+    },
+    "id": "STAFF-0063"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "פרידמן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 17,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "055-8934678",
+    "availability": {
+      "חמישי": [
+        "8:00-16:00"
+      ],
+      "שלישי": [
+        "14:00-15:00"
+      ]
+    },
+    "id": "STAFF-0064"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "רוזנברג",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 24,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "057-2724456",
+    "availability": {
+      "שלישי": [
+        "10:00-19:00"
+      ],
+      "שני": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0065"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "גולדשטיין",
+    "role": "רופא",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 22,
+    "education_years": 6,
+    "degree_type": "MD",
+    "phone_number": "050-8638863",
+    "availability": {
+      "שישי": [
+        "10:00-15:00"
+      ],
+      "רביעי": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0066"
+  },
+  {
+    "first_name": "יעל",
+    "last_name": "גולדשטיין",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 11,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "056-3134438",
+    "availability": {
+      "שלישי": [
+        "14:00-15:00"
+      ],
+      "שישי": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0067"
+  },
+  {
+    "first_name": "תמר",
+    "last_name": "פרידמן",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 7,
+    "education_years": 3,
+    "degree_type": "MD מומחית",
+    "phone_number": "054-2211199",
+    "availability": {
+      "חמישי": [
+        "9:00-18:00"
+      ]
+    },
+    "id": "STAFF-0068"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "לוי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 17,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "055-9587887",
+    "availability": {
+      "שישי": [
+        "13:00-17:00"
+      ]
+    },
+    "id": "STAFF-0069"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "כץ",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Pulmonology",
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים",
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 25,
+    "education_years": 10,
+    "degree_type": "MD",
+    "phone_number": "050-4861236",
+    "availability": {
+      "שני": [
+        "12:00-17:00"
+      ],
+      "חמישי": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0070"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "לוי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Dermatology",
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים",
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 3,
+    "education_years": 5,
+    "degree_type": "MD",
+    "phone_number": "051-5753267",
+    "availability": {
+      "שישי": [
+        "9:00-19:00"
+      ],
+      "שני": [
+        "12:00-20:00"
+      ]
+    },
+    "id": "STAFF-0071"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "נבון",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 25,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "050-4041256",
+    "availability": {
+      "רביעי": [
+        "9:00-20:00"
+      ],
+      "שישי": [
+        "13:00-16:00"
+      ]
+    },
+    "id": "STAFF-0072"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "שחר",
+    "role": "רופאה",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry",
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער",
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 10,
+    "degree_type": "MD מומחית",
+    "phone_number": "054-4580116",
+    "availability": {
+      "חמישי": [
+        "11:00-15:00"
+      ],
+      "שלישי": [
+        "12:00-16:00"
+      ]
+    },
+    "id": "STAFF-0073"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "שטרן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 18,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "053-8380101",
+    "availability": {
+      "חמישי": [
+        "14:00-17:00"
+      ],
+      "שלישי": [
+        "13:00-20:00"
+      ]
+    },
+    "id": "STAFF-0074"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "לוי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 9,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "057-6166597",
+    "availability": {
+      "חמישי": [
+        "11:00-20:00"
+      ],
+      "שישי": [
+        "9:00-19:00"
+      ]
+    },
+    "id": "STAFF-0075"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "לוי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 14,
+    "education_years": 11,
+    "degree_type": "MD מומחית",
+    "phone_number": "051-5520149",
+    "availability": {
+      "ראשון": [
+        "9:00-15:00"
+      ],
+      "שני": [
+        "9:00-16:00"
+      ]
+    },
+    "id": "STAFF-0076"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "שחר",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 16,
+    "education_years": 4,
+    "degree_type": "MD מומחית",
+    "phone_number": "059-3913000",
+    "availability": {
+      "חמישי": [
+        "12:00-18:00"
+      ],
+      "רביעי": [
+        "12:00-20:00"
+      ]
+    },
+    "id": "STAFF-0077"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "פרידמן",
+    "role": "רופאה",
+    "specialties_english": [
+      "General Pediatrics",
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית",
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 15,
+    "education_years": 3,
+    "degree_type": "MD מומחית",
+    "phone_number": "050-6678421",
+    "availability": {
+      "שישי": [
+        "12:00-15:00"
+      ],
+      "חמישי": [
+        "11:00-19:00"
+      ]
+    },
+    "id": "STAFF-0078"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "ברק",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 4,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "059-5684286",
+    "availability": {
+      "שלישי": [
+        "9:00-19:00"
+      ],
+      "ראשון": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0079"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "לוי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 10,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "051-5802205",
+    "availability": {
+      "שני": [
+        "14:00-20:00"
+      ],
+      "ראשון": [
+        "8:00-16:00"
+      ]
+    },
+    "id": "STAFF-0080"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "כץ",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Ophthalmology",
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים",
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 13,
+    "education_years": 6,
+    "degree_type": "MD",
+    "phone_number": "058-2105717",
+    "availability": {
+      "שישי": [
+        "8:00-16:00"
+      ],
+      "חמישי": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0081"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "לוי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 15,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "056-3592118",
+    "availability": {
+      "שני": [
+        "13:00-19:00"
+      ],
+      "שישי": [
+        "13:00-20:00"
+      ]
+    },
+    "id": "STAFF-0082"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "גולדשטיין",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 11,
+    "education_years": 10,
+    "degree_type": "MD",
+    "phone_number": "058-3174712",
+    "availability": {
+      "שלישי": [
+        "10:00-15:00"
+      ],
+      "שישי": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0083"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "גולדשטיין",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 9,
+    "degree_type": "MD",
+    "phone_number": "050-3523445",
+    "availability": {
+      "שני": [
+        "12:00-15:00"
+      ],
+      "שלישי": [
+        "8:00-17:00"
+      ]
+    },
+    "id": "STAFF-0084"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "שטרן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 12,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "056-1334675",
+    "availability": {
+      "שני": [
+        "12:00-17:00"
+      ],
+      "רביעי": [
+        "12:00-19:00"
+      ]
+    },
+    "id": "STAFF-0085"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "לוי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 7,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "055-7123843",
+    "availability": {
+      "שני": [
+        "14:00-18:00"
+      ],
+      "שישי": [
+        "8:00-15:00"
+      ]
+    },
+    "id": "STAFF-0086"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "אלמוג",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 9,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "052-9777788",
+    "availability": {
+      "שישי": [
+        "8:00-20:00"
+      ],
+      "רביעי": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0087"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "ישראלי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Gastroenterology",
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים",
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 6,
+    "education_years": 12,
+    "degree_type": "MD מומחית",
+    "phone_number": "053-7679522",
+    "availability": {
+      "שלישי": [
+        "8:00-18:00"
+      ],
+      "ראשון": [
+        "13:00-18:00"
+      ]
+    },
+    "id": "STAFF-0088"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "שטרן",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 23,
+    "education_years": 11,
+    "degree_type": "MD",
+    "phone_number": "053-3712806",
+    "availability": {
+      "שלישי": [
+        "10:00-16:00"
+      ],
+      "ראשון": [
+        "10:00-16:00"
+      ]
+    },
+    "id": "STAFF-0089"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "הרשקוביץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology",
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים",
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 6,
+    "degree_type": "MD מומחית",
+    "phone_number": "055-5430049",
+    "availability": {
+      "רביעי": [
+        "13:00-19:00"
+      ],
+      "ראשון": [
+        "9:00-16:00"
+      ]
+    },
+    "id": "STAFF-0090"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "מזרחי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 9,
+    "education_years": 8,
+    "degree_type": "MD",
+    "phone_number": "059-3917672",
+    "availability": {
+      "שישי": [
+        "10:00-18:00"
+      ]
+    },
+    "id": "STAFF-0091"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "כהן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 4,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "054-6510693",
+    "availability": {
+      "שלישי": [
+        "11:00-20:00"
+      ]
+    },
+    "id": "STAFF-0092"
+  },
+  {
+    "first_name": "יעל",
+    "last_name": "פרידמן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 7,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "052-8523904",
+    "availability": {
+      "חמישי": [
+        "12:00-16:00"
+      ]
+    },
+    "id": "STAFF-0093"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "כהן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 23,
+    "education_years": 6,
+    "degree_type": "RN",
+    "phone_number": "059-7182247",
+    "availability": {
+      "שישי": [
+        "11:00-15:00"
+      ],
+      "שלישי": [
+        "14:00-20:00"
+      ]
+    },
+    "id": "STAFF-0094"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "אביב",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 11,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "054-9690878",
+    "availability": {
+      "שלישי": [
+        "9:00-19:00"
+      ],
+      "רביעי": [
+        "14:00-15:00"
+      ]
+    },
+    "id": "STAFF-0095"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "כהן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 7,
+    "education_years": 4,
+    "degree_type": "RN",
+    "phone_number": "051-4218167",
+    "availability": {
+      "רביעי": [
+        "9:00-18:00"
+      ]
+    },
+    "id": "STAFF-0096"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "רוזנברג",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 15,
+    "education_years": 12,
+    "degree_type": "MD",
+    "phone_number": "050-5670167",
+    "availability": {
+      "חמישי": [
+        "11:00-19:00"
+      ],
+      "רביעי": [
+        "10:00-18:00"
+      ]
+    },
+    "id": "STAFF-0097"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "גולדשטיין",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 6,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "052-9899855",
+    "availability": {
+      "שישי": [
+        "10:00-20:00"
+      ],
+      "שלישי": [
+        "12:00-20:00"
+      ]
+    },
+    "id": "STAFF-0098"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "כץ",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 24,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "059-4542771",
+    "availability": {
+      "חמישי": [
+        "11:00-15:00"
+      ],
+      "רביעי": [
+        "11:00-19:00"
+      ]
+    },
+    "id": "STAFF-0099"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "שחר",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Dermatology",
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים",
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 8,
+    "education_years": 11,
+    "degree_type": "MD מומחית",
+    "phone_number": "054-6733322",
+    "availability": {
+      "רביעי": [
+        "13:00-18:00"
+      ],
+      "שני": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0100"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "מזרחי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 3,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "053-2502982",
+    "availability": {
+      "שני": [
+        "8:00-19:00"
+      ],
+      "שלישי": [
+        "14:00-16:00"
+      ]
+    },
+    "id": "STAFF-0101"
+  },
+  {
+    "first_name": "תמר",
+    "last_name": "כהן",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Endocrinology",
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים",
+      "רפואת עור ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 16,
+    "education_years": 7,
+    "degree_type": "MD מומחית",
+    "phone_number": "057-6196204",
+    "availability": {
+      "רביעי": [
+        "13:00-17:00"
+      ],
+      "שני": [
+        "13:00-17:00"
+      ]
+    },
+    "id": "STAFF-0102"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "הרשקוביץ",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 9,
+    "education_years": 9,
+    "degree_type": "MD",
+    "phone_number": "051-8647612",
+    "availability": {
+      "חמישי": [
+        "8:00-18:00"
+      ],
+      "רביעי": [
+        "13:00-15:00"
+      ]
+    },
+    "id": "STAFF-0103"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "שחר",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Ophthalmology",
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים",
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 11,
+    "education_years": 5,
+    "degree_type": "MD",
+    "phone_number": "055-2934515",
+    "availability": {
+      "שישי": [
+        "9:00-17:00"
+      ],
+      "רביעי": [
+        "11:00-19:00"
+      ]
+    },
+    "id": "STAFF-0104"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "רוזנברג",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 5,
+    "education_years": 6,
+    "degree_type": "RN",
+    "phone_number": "056-2342864",
+    "availability": {
+      "ראשון": [
+        "11:00-15:00"
+      ],
+      "חמישי": [
+        "10:00-16:00"
+      ]
+    },
+    "id": "STAFF-0105"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "גולדשטיין",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 19,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "056-8349774",
+    "availability": {
+      "ראשון": [
+        "11:00-15:00"
+      ],
+      "שני": [
+        "10:00-18:00"
+      ]
+    },
+    "id": "STAFF-0106"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "ישראלי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 13,
+    "education_years": 4,
+    "degree_type": "MD מומחית",
+    "phone_number": "057-2923147",
+    "availability": {
+      "ראשון": [
+        "14:00-18:00"
+      ],
+      "חמישי": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0107"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "נבון",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Dermatology",
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים",
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 18,
+    "education_years": 3,
+    "degree_type": "MD מומחית",
+    "phone_number": "058-2472355",
+    "availability": {
+      "שני": [
+        "12:00-18:00"
+      ],
+      "רביעי": [
+        "12:00-17:00"
+      ]
+    },
+    "id": "STAFF-0108"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "שחר",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 4,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "052-7871544",
+    "availability": {
+      "שישי": [
+        "11:00-20:00"
+      ],
+      "ראשון": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0109"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "כהן",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Cardiology",
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים",
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 15,
+    "education_years": 6,
+    "degree_type": "MD מומחית",
+    "phone_number": "058-8170848",
+    "availability": {
+      "שלישי": [
+        "9:00-19:00"
+      ]
+    },
+    "id": "STAFF-0110"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "פרידמן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 12,
+    "education_years": 6,
+    "degree_type": "RN",
+    "phone_number": "051-2900310",
+    "availability": {
+      "ראשון": [
+        "10:00-17:00"
+      ],
+      "שני": [
+        "9:00-19:00"
+      ]
+    },
+    "id": "STAFF-0111"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "ברק",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 3,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "054-2608596",
+    "availability": {
+      "חמישי": [
+        "9:00-20:00"
+      ],
+      "שלישי": [
+        "9:00-16:00"
+      ]
+    },
+    "id": "STAFF-0112"
+  },
+  {
+    "first_name": "תמר",
+    "last_name": "כץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 4,
+    "degree_type": "MD מומחית",
+    "phone_number": "053-6184507",
+    "availability": {
+      "ראשון": [
+        "9:00-19:00"
+      ],
+      "חמישי": [
+        "12:00-19:00"
+      ]
+    },
+    "id": "STAFF-0113"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "אלמוג",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 25,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "059-5147414",
+    "availability": {
+      "שלישי": [
+        "13:00-20:00"
+      ],
+      "שישי": [
+        "11:00-19:00"
+      ]
+    },
+    "id": "STAFF-0114"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "ברק",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 3,
+    "education_years": 4,
+    "degree_type": "MD מומחית",
+    "phone_number": "054-8525976",
+    "availability": {
+      "רביעי": [
+        "10:00-18:00"
+      ],
+      "ראשון": [
+        "14:00-18:00"
+      ]
+    },
+    "id": "STAFF-0115"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "הרשקוביץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 15,
+    "education_years": 12,
+    "degree_type": "MD מומחית",
+    "phone_number": "056-6791916",
+    "availability": {
+      "שלישי": [
+        "9:00-18:00"
+      ],
+      "ראשון": [
+        "12:00-20:00"
+      ]
+    },
+    "id": "STAFF-0116"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "רוזנברג",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 20,
+    "education_years": 7,
+    "degree_type": "MD",
+    "phone_number": "059-1536261",
+    "availability": {
+      "שלישי": [
+        "10:00-19:00"
+      ],
+      "שני": [
+        "12:00-15:00"
+      ]
+    },
+    "id": "STAFF-0117"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "רוזנברג",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 12,
+    "education_years": 9,
+    "degree_type": "MD מומחית",
+    "phone_number": "056-9969821",
+    "availability": {
+      "רביעי": [
+        "13:00-17:00"
+      ],
+      "חמישי": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0118"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "שחר",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "053-1213116",
+    "availability": {
+      "חמישי": [
+        "9:00-18:00"
+      ],
+      "ראשון": [
+        "12:00-16:00"
+      ]
+    },
+    "id": "STAFF-0119"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "שטרן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 11,
+    "education_years": 6,
+    "degree_type": "RN",
+    "phone_number": "051-4200377",
+    "availability": {
+      "ראשון": [
+        "13:00-19:00"
+      ]
+    },
+    "id": "STAFF-0120"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "אביב",
+    "role": "רופא",
+    "specialties_english": [
+      "Emergency Pediatric Support",
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים",
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 9,
+    "education_years": 10,
+    "degree_type": "MD",
+    "phone_number": "059-4229981",
+    "availability": {
+      "שלישי": [
+        "14:00-15:00"
+      ]
+    },
+    "id": "STAFF-0121"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "פרידמן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 12,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "051-1552787",
+    "availability": {
+      "שישי": [
+        "10:00-19:00"
+      ],
+      "שלישי": [
+        "14:00-19:00"
+      ]
+    },
+    "id": "STAFF-0122"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "כהן",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 17,
+    "education_years": 7,
+    "degree_type": "MD",
+    "phone_number": "050-7730086",
+    "availability": {
+      "שלישי": [
+        "10:00-16:00"
+      ],
+      "שישי": [
+        "10:00-15:00"
+      ]
+    },
+    "id": "STAFF-0123"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "אלמוג",
+    "role": "רופא",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 15,
+    "education_years": 10,
+    "degree_type": "MD",
+    "phone_number": "054-7257434",
+    "availability": {
+      "שני": [
+        "10:00-16:00"
+      ],
+      "שלישי": [
+        "13:00-20:00"
+      ]
+    },
+    "id": "STAFF-0124"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "כץ",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 10,
+    "education_years": 5,
+    "degree_type": "MD",
+    "phone_number": "053-1748358",
+    "availability": {
+      "שני": [
+        "13:00-15:00"
+      ],
+      "שישי": [
+        "11:00-19:00"
+      ]
+    },
+    "id": "STAFF-0125"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "מזרחי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 25,
+    "education_years": 5,
+    "degree_type": "MD",
+    "phone_number": "057-4731783",
+    "availability": {
+      "שישי": [
+        "12:00-18:00"
+      ],
+      "שני": [
+        "11:00-16:00"
+      ]
+    },
+    "id": "STAFF-0126"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "ברק",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 23,
+    "education_years": 8,
+    "degree_type": "MD",
+    "phone_number": "056-9115944",
+    "availability": {
+      "ראשון": [
+        "10:00-20:00"
+      ],
+      "שני": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0127"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "כץ",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 19,
+    "education_years": 4,
+    "degree_type": "RN",
+    "phone_number": "057-6147277",
+    "availability": {
+      "ראשון": [
+        "12:00-16:00"
+      ],
+      "חמישי": [
+        "10:00-19:00"
+      ]
+    },
+    "id": "STAFF-0128"
+  },
+  {
+    "first_name": "יעל",
+    "last_name": "שטרן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "059-6497149",
+    "availability": {
+      "ראשון": [
+        "8:00-19:00"
+      ],
+      "רביעי": [
+        "12:00-20:00"
+      ]
+    },
+    "id": "STAFF-0129"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "ישראלי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Ophthalmology",
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים",
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 11,
+    "education_years": 7,
+    "degree_type": "MD",
+    "phone_number": "058-1233519",
+    "availability": {
+      "שישי": [
+        "10:00-15:00"
+      ]
+    },
+    "id": "STAFF-0130"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "הרשקוביץ",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 19,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "053-3601917",
+    "availability": {
+      "שני": [
+        "14:00-16:00"
+      ],
+      "שישי": [
+        "11:00-17:00"
+      ]
+    },
+    "id": "STAFF-0131"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "הרשקוביץ",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "053-4467288",
+    "availability": {
+      "שני": [
+        "9:00-15:00"
+      ],
+      "ראשון": [
+        "14:00-18:00"
+      ]
+    },
+    "id": "STAFF-0132"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "כץ",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 4,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "058-2956857",
+    "availability": {
+      "שלישי": [
+        "9:00-17:00"
+      ],
+      "חמישי": [
+        "10:00-15:00"
+      ]
+    },
+    "id": "STAFF-0133"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "אלמוג",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 22,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "054-1208998",
+    "availability": {
+      "שישי": [
+        "11:00-16:00"
+      ],
+      "ראשון": [
+        "8:00-18:00"
+      ]
+    },
+    "id": "STAFF-0134"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "שחר",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Pulmonology",
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים",
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 19,
+    "education_years": 3,
+    "degree_type": "MD",
+    "phone_number": "055-8836644",
+    "availability": {
+      "חמישי": [
+        "12:00-19:00"
+      ],
+      "רביעי": [
+        "12:00-17:00"
+      ]
+    },
+    "id": "STAFF-0135"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "פרידמן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 14,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "053-4572632",
+    "availability": {
+      "שני": [
+        "11:00-17:00"
+      ],
+      "חמישי": [
+        "14:00-18:00"
+      ]
+    },
+    "id": "STAFF-0136"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "ישראלי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 15,
+    "education_years": 5,
+    "degree_type": "MD מומחית",
+    "phone_number": "054-2792644",
+    "availability": {
+      "שני": [
+        "8:00-18:00"
+      ],
+      "שישי": [
+        "9:00-20:00"
+      ]
+    },
+    "id": "STAFF-0137"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "ישראלי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 11,
+    "education_years": 6,
+    "degree_type": "RN",
+    "phone_number": "053-8800148",
+    "availability": {
+      "חמישי": [
+        "11:00-17:00"
+      ],
+      "שני": [
+        "8:00-18:00"
+      ]
+    },
+    "id": "STAFF-0138"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "שטרן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 25,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "058-9660522",
+    "availability": {
+      "רביעי": [
+        "11:00-18:00"
+      ],
+      "שישי": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0139"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "ישראלי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 4,
+    "degree_type": "RN",
+    "phone_number": "056-9042107",
+    "availability": {
+      "ראשון": [
+        "12:00-20:00"
+      ],
+      "שני": [
+        "13:00-18:00"
+      ]
+    },
+    "id": "STAFF-0140"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "כץ",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 24,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "057-7352612",
+    "availability": {
+      "חמישי": [
+        "11:00-19:00"
+      ],
+      "שלישי": [
+        "11:00-19:00"
+      ]
+    },
+    "id": "STAFF-0141"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "כץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Gastroenterology",
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים",
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 12,
+    "education_years": 12,
+    "degree_type": "MD מומחית",
+    "phone_number": "050-2046756",
+    "availability": {
+      "ראשון": [
+        "10:00-19:00"
+      ],
+      "שני": [
+        "12:00-15:00"
+      ]
+    },
+    "id": "STAFF-0142"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "גולדשטיין",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 8,
+    "education_years": 12,
+    "degree_type": "MD מומחית",
+    "phone_number": "054-9689820",
+    "availability": {
+      "שלישי": [
+        "9:00-19:00"
+      ],
+      "רביעי": [
+        "13:00-18:00"
+      ]
+    },
+    "id": "STAFF-0143"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "אלמוג",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 21,
+    "education_years": 8,
+    "degree_type": "MD מומחית",
+    "phone_number": "059-4012296",
+    "availability": {
+      "חמישי": [
+        "8:00-19:00"
+      ],
+      "שישי": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0144"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "נבון",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 18,
+    "education_years": 11,
+    "degree_type": "MD מומחית",
+    "phone_number": "053-4270919",
+    "availability": {
+      "שני": [
+        "12:00-19:00"
+      ],
+      "שלישי": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0145"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "מזרחי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 25,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "050-4914381",
+    "availability": {
+      "ראשון": [
+        "9:00-17:00"
+      ]
+    },
+    "id": "STAFF-0146"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "כהן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 13,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "059-6570979",
+    "availability": {
+      "חמישי": [
+        "11:00-17:00"
+      ],
+      "רביעי": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0147"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "לוי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 17,
+    "education_years": 11,
+    "degree_type": "MD",
+    "phone_number": "054-3446864",
+    "availability": {
+      "רביעי": [
+        "12:00-15:00"
+      ],
+      "שלישי": [
+        "13:00-16:00"
+      ]
+    },
+    "id": "STAFF-0148"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "אביב",
+    "role": "רופאה",
+    "specialties_english": [
+      "General Pediatrics",
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית",
+      "רפואת עור ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 21,
+    "education_years": 6,
+    "degree_type": "MD מומחית",
+    "phone_number": "050-7973974",
+    "availability": {
+      "שלישי": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0149"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "כהן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 11,
+    "education_years": 6,
+    "degree_type": "RN",
+    "phone_number": "052-7166629",
+    "availability": {
+      "ראשון": [
+        "13:00-16:00"
+      ],
+      "שני": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0150"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "שחר",
+    "role": "רופאה",
+    "specialties_english": [
+      "General Pediatrics",
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית",
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 22,
+    "education_years": 10,
+    "degree_type": "MD מומחית",
+    "phone_number": "057-2934047",
+    "availability": {
+      "שני": [
+        "11:00-18:00"
+      ],
+      "ראשון": [
+        "13:00-16:00"
+      ]
+    },
+    "id": "STAFF-0151"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "נבון",
+    "role": "רופא",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 12,
+    "degree_type": "MD",
+    "phone_number": "051-5322864",
+    "availability": {
+      "שלישי": [
+        "10:00-18:00"
+      ],
+      "שישי": [
+        "13:00-17:00"
+      ]
+    },
+    "id": "STAFF-0152"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "פרידמן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 6,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "053-6218501",
+    "availability": {
+      "שלישי": [
+        "13:00-17:00"
+      ],
+      "חמישי": [
+        "8:00-20:00"
+      ]
+    },
+    "id": "STAFF-0153"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "אלמוג",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 18,
+    "education_years": 6,
+    "degree_type": "MD",
+    "phone_number": "052-4096195",
+    "availability": {
+      "רביעי": [
+        "10:00-19:00"
+      ],
+      "שני": [
+        "12:00-19:00"
+      ]
+    },
+    "id": "STAFF-0154"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "מזרחי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 6,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "055-6463429",
+    "availability": {
+      "רביעי": [
+        "8:00-18:00"
+      ],
+      "ראשון": [
+        "10:00-17:00"
+      ]
+    },
+    "id": "STAFF-0155"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "מזרחי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 7,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "055-7777714",
+    "availability": {
+      "שלישי": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0156"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "גולדשטיין",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 17,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "052-8560777",
+    "availability": {
+      "שני": [
+        "11:00-20:00"
+      ],
+      "רביעי": [
+        "9:00-20:00"
+      ]
+    },
+    "id": "STAFF-0157"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "אלמוג",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 5,
+    "education_years": 10,
+    "degree_type": "MD מומחית",
+    "phone_number": "059-4156992",
+    "availability": {
+      "חמישי": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0158"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "ברק",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 12,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "053-6759229",
+    "availability": {
+      "רביעי": [
+        "10:00-19:00"
+      ],
+      "שני": [
+        "8:00-18:00"
+      ]
+    },
+    "id": "STAFF-0159"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "נבון",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 12,
+    "education_years": 6,
+    "degree_type": "RN",
+    "phone_number": "052-1802192",
+    "availability": {
+      "שלישי": [
+        "14:00-17:00"
+      ],
+      "שני": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0160"
+  },
+  {
+    "first_name": "יעל",
+    "last_name": "אביב",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 19,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "050-6918896",
+    "availability": {
+      "ראשון": [
+        "11:00-18:00"
+      ],
+      "שלישי": [
+        "9:00-16:00"
+      ]
+    },
+    "id": "STAFF-0161"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "פרידמן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 15,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "053-7956514",
+    "availability": {
+      "חמישי": [
+        "14:00-18:00"
+      ],
+      "שלישי": [
+        "14:00-19:00"
+      ]
+    },
+    "id": "STAFF-0162"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "אביב",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Gastroenterology",
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים",
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 8,
+    "education_years": 7,
+    "degree_type": "MD",
+    "phone_number": "057-2135626",
+    "availability": {
+      "חמישי": [
+        "12:00-18:00"
+      ],
+      "ראשון": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0163"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "אביב",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 11,
+    "degree_type": "RN",
+    "phone_number": "050-6232116",
+    "availability": {
+      "חמישי": [
+        "10:00-19:00"
+      ],
+      "שלישי": [
+        "14:00-20:00"
+      ]
+    },
+    "id": "STAFF-0164"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "ברק",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 3,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "055-9565341",
+    "availability": {
+      "רביעי": [
+        "8:00-17:00"
+      ]
+    },
+    "id": "STAFF-0165"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "ישראלי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 14,
+    "education_years": 6,
+    "degree_type": "RN",
+    "phone_number": "055-4770075",
+    "availability": {
+      "חמישי": [
+        "12:00-16:00"
+      ],
+      "ראשון": [
+        "8:00-18:00"
+      ]
+    },
+    "id": "STAFF-0166"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "אביב",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 4,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "054-4341038",
+    "availability": {
+      "חמישי": [
+        "14:00-20:00"
+      ],
+      "ראשון": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0167"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "ברק",
+    "role": "רופאה",
+    "specialties_english": [
+      "Emergency Pediatric Support",
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים",
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 8,
+    "education_years": 8,
+    "degree_type": "MD מומחית",
+    "phone_number": "050-7915349",
+    "availability": {
+      "שישי": [
+        "9:00-15:00"
+      ],
+      "חמישי": [
+        "12:00-16:00"
+      ]
+    },
+    "id": "STAFF-0168"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "אלמוג",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "057-6815807",
+    "availability": {
+      "שלישי": [
+        "12:00-16:00"
+      ],
+      "ראשון": [
+        "10:00-16:00"
+      ]
+    },
+    "id": "STAFF-0169"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "אלמוג",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 8,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "055-2993149",
+    "availability": {
+      "רביעי": [
+        "13:00-15:00"
+      ]
+    },
+    "id": "STAFF-0170"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "כץ",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 19,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "054-4328244",
+    "availability": {
+      "ראשון": [
+        "11:00-19:00"
+      ],
+      "חמישי": [
+        "11:00-20:00"
+      ]
+    },
+    "id": "STAFF-0171"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "נבון",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 4,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "057-1713697",
+    "availability": {
+      "ראשון": [
+        "12:00-16:00"
+      ],
+      "שני": [
+        "8:00-20:00"
+      ]
+    },
+    "id": "STAFF-0172"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "פרידמן",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Ophthalmology",
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים",
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 6,
+    "degree_type": "MD מומחית",
+    "phone_number": "054-5807149",
+    "availability": {
+      "שלישי": [
+        "10:00-16:00"
+      ],
+      "שישי": [
+        "8:00-15:00"
+      ]
+    },
+    "id": "STAFF-0173"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "רוזנברג",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Cardiology",
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים",
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 11,
+    "education_years": 6,
+    "degree_type": "MD",
+    "phone_number": "052-4377945",
+    "availability": {
+      "שישי": [
+        "14:00-17:00"
+      ],
+      "חמישי": [
+        "8:00-18:00"
+      ]
+    },
+    "id": "STAFF-0174"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "כהן",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 9,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "059-3030319",
+    "availability": {
+      "שישי": [
+        "8:00-18:00"
+      ],
+      "חמישי": [
+        "12:00-20:00"
+      ]
+    },
+    "id": "STAFF-0175"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "ברק",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Ophthalmology",
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים",
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 17,
+    "education_years": 5,
+    "degree_type": "MD מומחית",
+    "phone_number": "051-6464035",
+    "availability": {
+      "שלישי": [
+        "11:00-15:00"
+      ],
+      "רביעי": [
+        "9:00-16:00"
+      ]
+    },
+    "id": "STAFF-0176"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "הרשקוביץ",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 18,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "051-5651581",
+    "availability": {
+      "שלישי": [
+        "8:00-15:00"
+      ],
+      "ראשון": [
+        "11:00-15:00"
+      ]
+    },
+    "id": "STAFF-0177"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "שחר",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "055-9863258",
+    "availability": {
+      "חמישי": [
+        "9:00-17:00"
+      ],
+      "שני": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0178"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "ברק",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "054-9070060",
+    "availability": {
+      "שני": [
+        "11:00-17:00"
+      ],
+      "ראשון": [
+        "8:00-17:00"
+      ]
+    },
+    "id": "STAFF-0179"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "נבון",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 4,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "054-2093939",
+    "availability": {
+      "שישי": [
+        "11:00-18:00"
+      ]
+    },
+    "id": "STAFF-0180"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "רוזנברג",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 5,
+    "education_years": 10,
+    "degree_type": "MD מומחית",
+    "phone_number": "051-4236680",
+    "availability": {
+      "חמישי": [
+        "13:00-16:00"
+      ]
+    },
+    "id": "STAFF-0181"
+  },
+  {
+    "first_name": "תמר",
+    "last_name": "פרידמן",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "055-9576451",
+    "availability": {
+      "ראשון": [
+        "8:00-18:00"
+      ],
+      "שלישי": [
+        "13:00-16:00"
+      ]
+    },
+    "id": "STAFF-0182"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "ברק",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 12,
+    "education_years": 8,
+    "degree_type": "RN",
+    "phone_number": "053-4143854",
+    "availability": {
+      "שני": [
+        "12:00-15:00"
+      ],
+      "שלישי": [
+        "11:00-17:00"
+      ]
+    },
+    "id": "STAFF-0183"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "ישראלי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 18,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "058-4028916",
+    "availability": {
+      "ראשון": [
+        "14:00-16:00"
+      ],
+      "שלישי": [
+        "8:00-19:00"
+      ]
+    },
+    "id": "STAFF-0184"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "אלמוג",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 5,
+    "education_years": 3,
+    "degree_type": "RN",
+    "phone_number": "056-2736136",
+    "availability": {
+      "שישי": [
+        "12:00-20:00"
+      ],
+      "שני": [
+        "9:00-18:00"
+      ]
+    },
+    "id": "STAFF-0185"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "גולדשטיין",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 11,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "052-9825780",
+    "availability": {
+      "שני": [
+        "8:00-16:00"
+      ],
+      "שישי": [
+        "9:00-19:00"
+      ]
+    },
+    "id": "STAFF-0186"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "לוי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "051-8037220",
+    "availability": {
+      "שישי": [
+        "9:00-18:00"
+      ],
+      "חמישי": [
+        "14:00-18:00"
+      ]
+    },
+    "id": "STAFF-0187"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "כץ",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 7,
+    "education_years": 7,
+    "degree_type": "RN",
+    "phone_number": "056-9737288",
+    "availability": {
+      "שישי": [
+        "8:00-17:00"
+      ],
+      "שני": [
+        "10:00-15:00"
+      ]
+    },
+    "id": "STAFF-0188"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "ישראלי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 23,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "053-8734238",
+    "availability": {
+      "חמישי": [
+        "8:00-20:00"
+      ]
+    },
+    "id": "STAFF-0189"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "גולדשטיין",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 4,
+    "education_years": 4,
+    "degree_type": "RN",
+    "phone_number": "056-7918835",
+    "availability": {
+      "חמישי": [
+        "12:00-17:00"
+      ],
+      "שלישי": [
+        "10:00-15:00"
+      ]
+    },
+    "id": "STAFF-0190"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "רוזנברג",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 9,
+    "education_years": 12,
+    "degree_type": "RN",
+    "phone_number": "058-3781548",
+    "availability": {
+      "שישי": [
+        "10:00-17:00"
+      ],
+      "רביעי": [
+        "14:00-17:00"
+      ]
+    },
+    "id": "STAFF-0191"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "הרשקוביץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology",
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים",
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 5,
+    "education_years": 5,
+    "degree_type": "MD מומחית",
+    "phone_number": "050-2651929",
+    "availability": {
+      "שלישי": [
+        "14:00-18:00"
+      ],
+      "חמישי": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0192"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "לוי",
+    "role": "אחות מוסמכת",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 12,
+    "education_years": 10,
+    "degree_type": "RN",
+    "phone_number": "059-8417026",
+    "availability": {
+      "חמישי": [
+        "10:00-16:00"
+      ],
+      "שישי": [
+        "13:00-18:00"
+      ]
+    },
+    "id": "STAFF-0193"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "אביב",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 7,
+    "education_years": 9,
+    "degree_type": "RN",
+    "phone_number": "059-5478081",
+    "availability": {
+      "שני": [
+        "9:00-15:00"
+      ],
+      "חמישי": [
+        "8:00-16:00"
+      ]
+    },
+    "id": "STAFF-0194"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "אביב",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 18,
+    "education_years": 11,
+    "degree_type": "MD",
+    "phone_number": "052-5121347",
+    "availability": {
+      "שני": [
+        "9:00-18:00"
+      ],
+      "חמישי": [
+        "12:00-16:00"
+      ]
+    },
+    "id": "STAFF-0195"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "רוזנברג",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 21,
+    "education_years": 7,
+    "degree_type": "MD",
+    "phone_number": "050-1621363",
+    "availability": {
+      "שני": [
+        "12:00-17:00"
+      ]
+    },
+    "id": "STAFF-0196"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "לוי",
+    "role": "אח מוסמך",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 7,
+    "education_years": 5,
+    "degree_type": "RN",
+    "phone_number": "057-3359059",
+    "availability": {
+      "רביעי": [
+        "14:00-20:00"
+      ],
+      "ראשון": [
+        "11:00-16:00"
+      ]
+    },
+    "id": "STAFF-0197"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "הרשקוביץ",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Dermatology",
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים",
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 25,
+    "education_years": 10,
+    "degree_type": "MD מומחה",
+    "phone_number": "050-4002477",
+    "availability": {
+      "שלישי": [
+        "20:00-23:00",
+        "12:00-22:00",
+        "16:00-22:00",
+        "14:00-20:00"
+      ],
+      "שני": [
+        "06:00-10:00",
+        "14:00-22:00"
+      ],
+      "רביעי": [
+        "16:00-23:00"
+      ],
+      "ראשון": [
+        "08:00-16:00"
+      ],
+      "שישי": [
+        "10:00-16:00",
+        "08:00-14:00"
+      ]
+    },
+    "id": "STAFF-0198"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "מזרחי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Cardiology",
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "קרדיולוגיה ילדים",
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 11,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "059-8706683",
+    "availability": {
+      "חמישי": [
+        "08:00-12:00",
+        "18:00-23:00"
+      ],
+      "שישי": [
+        "12:00-16:00",
+        "06:00-16:00"
+      ],
+      "שלישי": [
+        "06:00-12:00",
+        "18:00-23:00"
+      ],
+      "שני": [
+        "12:00-16:00",
+        "16:00-23:00",
+        "16:00-22:00"
+      ],
+      "רביעי": [
+        "20:00-23:00",
+        "16:00-23:00"
+      ]
+    },
+    "id": "STAFF-0199"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "ישראלי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Gastroenterology",
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים",
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 15,
+    "education_years": 14,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-7580989",
+    "availability": {
+      "ראשון": [
+        "06:00-10:00"
+      ],
+      "חמישי": [
+        "12:00-16:00",
+        "08:00-18:00",
+        "18:00-23:00",
+        "08:00-18:00"
+      ],
+      "שלישי": [
+        "06:00-14:00"
+      ],
+      "שני": [
+        "06:00-12:00",
+        "18:00-23:00"
+      ],
+      "רביעי": [
+        "06:00-14:00"
+      ]
+    },
+    "id": "STAFF-0200"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "מזרחי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Ophthalmology",
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים",
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 11,
+    "education_years": 10,
+    "degree_type": "MD מומחה",
+    "phone_number": "054-4874963",
+    "availability": {
+      "רביעי": [
+        "18:00-23:00",
+        "20:00-23:00",
+        "16:00-23:00",
+        "16:00-22:00",
+        "16:00-23:00",
+        "08:00-14:00",
+        "14:00-22:00"
+      ],
+      "ראשון": [
+        "18:00-23:00"
+      ],
+      "שישי": [
+        "06:00-12:00",
+        "18:00-23:00"
+      ],
+      "שני": [
+        "10:00-14:00"
+      ]
+    },
+    "id": "STAFF-0201"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "נבון",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Dermatology",
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים",
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "054-2553833",
+    "availability": {
+      "שני": [
+        "08:00-14:00",
+        "18:00-23:00",
+        "18:00-23:00",
+        "16:00-22:00",
+        "18:00-23:00"
+      ],
+      "שישי": [
+        "14:00-22:00"
+      ],
+      "שלישי": [
+        "08:00-16:00"
+      ],
+      "ראשון": [
+        "12:00-16:00",
+        "06:00-14:00"
+      ],
+      "רביעי": [
+        "14:00-20:00"
+      ]
+    },
+    "id": "STAFF-0202"
+  },
+  {
+    "first_name": "שירה",
+    "last_name": "לוי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "057-7472621",
+    "availability": {
+      "חמישי": [
+        "14:00-20:00",
+        "06:00-16:00",
+        "14:00-20:00"
+      ],
+      "שני": [
+        "08:00-12:00",
+        "20:00-23:00"
+      ],
+      "שלישי": [
+        "06:00-10:00"
+      ],
+      "שישי": [
+        "08:00-16:00",
+        "10:00-18:00"
+      ],
+      "רביעי": [
+        "12:00-18:00",
+        "18:00-23:00"
+      ]
+    },
+    "id": "STAFF-0203"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "נבון",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Endocrinology",
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים",
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 26,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "059-3490538",
+    "availability": {
+      "שישי": [
+        "10:00-20:00",
+        "16:00-22:00",
+        "18:00-22:00",
+        "10:00-16:00"
+      ],
+      "שלישי": [
+        "18:00-23:00",
+        "14:00-20:00",
+        "12:00-16:00",
+        "12:00-16:00",
+        "14:00-18:00"
+      ],
+      "שני": [
+        "14:00-22:00"
+      ],
+      "חמישי": [
+        "06:00-10:00"
+      ]
+    },
+    "id": "STAFF-0204"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "ברק",
+    "role": "רופא",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 14,
+    "education_years": 14,
+    "degree_type": "MD מומחה",
+    "phone_number": "052-9217537",
+    "availability": {
+      "שישי": [
+        "10:00-14:00",
+        "12:00-18:00",
+        "10:00-20:00"
+      ],
+      "שלישי": [
+        "20:00-23:00"
+      ],
+      "ראשון": [
+        "14:00-20:00"
+      ],
+      "חמישי": [
+        "14:00-23:00",
+        "18:00-23:00"
+      ],
+      "רביעי": [
+        "18:00-23:00",
+        "18:00-23:00"
+      ],
+      "שני": [
+        "12:00-22:00"
+      ]
+    },
+    "id": "STAFF-0205"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "נבון",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Pulmonology",
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים",
+      "רפואת עור ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 25,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-4941410",
+    "availability": {
+      "רביעי": [
+        "06:00-12:00",
+        "14:00-22:00",
+        "16:00-23:00"
+      ],
+      "ראשון": [
+        "14:00-23:00",
+        "14:00-22:00"
+      ],
+      "שני": [
+        "18:00-23:00",
+        "14:00-18:00"
+      ],
+      "שלישי": [
+        "14:00-20:00",
+        "14:00-22:00"
+      ]
+    },
+    "id": "STAFF-0206"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "פרידמן",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 14,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "059-3607612",
+    "availability": {
+      "שלישי": [
+        "14:00-22:00",
+        "16:00-20:00"
+      ],
+      "ראשון": [
+        "10:00-16:00"
+      ],
+      "רביעי": [
+        "10:00-16:00",
+        "06:00-12:00"
+      ],
+      "שישי": [
+        "10:00-20:00",
+        "08:00-16:00",
+        "12:00-16:00"
+      ],
+      "חמישי": [
+        "14:00-23:00"
+      ]
+    },
+    "id": "STAFF-0207"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "ישראלי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Endocrinology",
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים",
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 29,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "053-4828492",
+    "availability": {
+      "שלישי": [
+        "18:00-23:00"
+      ],
+      "ראשון": [
+        "06:00-14:00",
+        "20:00-23:00"
+      ],
+      "רביעי": [
+        "18:00-22:00"
+      ],
+      "חמישי": [
+        "06:00-16:00"
+      ],
+      "שישי": [
+        "20:00-23:00",
+        "10:00-20:00",
+        "08:00-18:00",
+        "10:00-16:00"
+      ],
+      "שני": [
+        "06:00-10:00"
+      ]
+    },
+    "id": "STAFF-0208"
+  },
+  {
+    "first_name": "דניאל",
+    "last_name": "גולדשטיין",
+    "role": "רופא",
+    "specialties_english": [
+      "Emergency Pediatric Support",
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים",
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 28,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "052-8981249",
+    "availability": {
+      "רביעי": [
+        "12:00-20:00",
+        "14:00-18:00",
+        "08:00-16:00",
+        "12:00-20:00"
+      ],
+      "שני": [
+        "16:00-23:00",
+        "12:00-18:00",
+        "20:00-23:00"
+      ],
+      "ראשון": [
+        "06:00-10:00",
+        "08:00-14:00"
+      ],
+      "שלישי": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0209"
+  },
+  {
+    "first_name": "יעל",
+    "last_name": "כהן",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "054-7493815",
+    "availability": {
+      "שישי": [
+        "20:00-23:00",
+        "12:00-22:00",
+        "10:00-18:00",
+        "12:00-20:00",
+        "16:00-22:00"
+      ],
+      "שני": [
+        "18:00-23:00",
+        "18:00-23:00",
+        "10:00-16:00"
+      ],
+      "חמישי": [
+        "14:00-22:00"
+      ],
+      "שלישי": [
+        "18:00-22:00"
+      ]
+    },
+    "id": "STAFF-0210"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "גולדשטיין",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 23,
+    "education_years": 14,
+    "degree_type": "MD מומחה",
+    "phone_number": "052-5724901",
+    "availability": {
+      "רביעי": [
+        "18:00-22:00",
+        "16:00-23:00",
+        "06:00-10:00",
+        "20:00-23:00",
+        "08:00-12:00"
+      ],
+      "שני": [
+        "14:00-20:00"
+      ],
+      "שלישי": [
+        "08:00-14:00",
+        "14:00-18:00"
+      ],
+      "שישי": [
+        "06:00-16:00",
+        "06:00-16:00"
+      ],
+      "חמישי": [
+        "06:00-16:00"
+      ]
+    },
+    "id": "STAFF-0211"
+  },
+  {
+    "first_name": "עדי",
+    "last_name": "הרשקוביץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Neurology",
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים",
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 16,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-7138005",
+    "availability": {
+      "שני": [
+        "20:00-23:00",
+        "06:00-12:00"
+      ],
+      "ראשון": [
+        "08:00-12:00"
+      ],
+      "חמישי": [
+        "06:00-14:00",
+        "20:00-23:00",
+        "18:00-23:00",
+        "06:00-14:00"
+      ],
+      "שלישי": [
+        "20:00-23:00",
+        "18:00-23:00"
+      ],
+      "שישי": [
+        "16:00-23:00",
+        "06:00-14:00"
+      ],
+      "רביעי": [
+        "18:00-22:00"
+      ]
+    },
+    "id": "STAFF-0212"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "הרשקוביץ",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Endocrinology",
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים",
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 12,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "052-8886126",
+    "availability": {
+      "חמישי": [
+        "16:00-23:00",
+        "08:00-12:00",
+        "18:00-23:00",
+        "10:00-14:00",
+        "16:00-20:00"
+      ],
+      "שישי": [
+        "08:00-18:00",
+        "16:00-23:00",
+        "06:00-12:00"
+      ],
+      "רביעי": [
+        "06:00-12:00"
+      ],
+      "שלישי": [
+        "12:00-16:00",
+        "18:00-22:00"
+      ]
+    },
+    "id": "STAFF-0213"
+  },
+  {
+    "first_name": "רוני",
+    "last_name": "מזרחי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Dermatology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 29,
+    "education_years": 14,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-8127363",
+    "availability": {
+      "שלישי": [
+        "18:00-23:00",
+        "12:00-22:00",
+        "14:00-23:00",
+        "14:00-22:00"
+      ],
+      "ראשון": [
+        "18:00-23:00",
+        "14:00-18:00",
+        "18:00-22:00"
+      ],
+      "שישי": [
+        "08:00-12:00"
+      ],
+      "רביעי": [
+        "08:00-12:00"
+      ],
+      "שני": [
+        "18:00-23:00",
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0214"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "שחר",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Gastroenterology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 17,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "056-2769456",
+    "availability": {
+      "חמישי": [
+        "12:00-20:00",
+        "08:00-16:00",
+        "14:00-20:00",
+        "06:00-16:00"
+      ],
+      "רביעי": [
+        "08:00-12:00"
+      ],
+      "שלישי": [
+        "14:00-23:00",
+        "10:00-14:00",
+        "14:00-20:00"
+      ],
+      "שישי": [
+        "08:00-14:00"
+      ],
+      "שני": [
+        "20:00-23:00"
+      ]
+    },
+    "id": "STAFF-0215"
+  },
+  {
+    "first_name": "טל",
+    "last_name": "אביב",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 16,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "059-2723773",
+    "availability": {
+      "שני": [
+        "06:00-14:00",
+        "16:00-23:00"
+      ],
+      "שלישי": [
+        "20:00-23:00",
+        "14:00-20:00"
+      ],
+      "שישי": [
+        "06:00-16:00",
+        "14:00-22:00",
+        "08:00-14:00",
+        "18:00-23:00"
+      ],
+      "חמישי": [
+        "20:00-23:00"
+      ],
+      "רביעי": [
+        "14:00-23:00"
+      ]
+    },
+    "id": "STAFF-0216"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "נבון",
+    "role": "רופא",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry",
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער",
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 14,
+    "degree_type": "MD מומחה",
+    "phone_number": "054-3973154",
+    "availability": {
+      "ראשון": [
+        "20:00-23:00",
+        "20:00-23:00",
+        "20:00-23:00",
+        "10:00-14:00"
+      ],
+      "חמישי": [
+        "12:00-18:00"
+      ],
+      "שני": [
+        "14:00-18:00",
+        "18:00-23:00"
+      ],
+      "רביעי": [
+        "06:00-14:00",
+        "08:00-14:00"
+      ],
+      "שישי": [
+        "14:00-18:00",
+        "06:00-14:00"
+      ],
+      "שלישי": [
+        "20:00-23:00",
+        "20:00-23:00"
+      ]
+    },
+    "id": "STAFF-0217"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "רוזנברג",
+    "role": "רופאה",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry",
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער",
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 22,
+    "education_years": 14,
+    "degree_type": "MD מומחה",
+    "phone_number": "054-7225742",
+    "availability": {
+      "חמישי": [
+        "10:00-20:00",
+        "18:00-22:00"
+      ],
+      "שישי": [
+        "14:00-20:00",
+        "18:00-23:00",
+        "08:00-12:00"
+      ],
+      "ראשון": [
+        "06:00-14:00",
+        "20:00-23:00"
+      ],
+      "רביעי": [
+        "10:00-20:00",
+        "20:00-23:00"
+      ],
+      "שלישי": [
+        "12:00-20:00"
+      ]
+    },
+    "id": "STAFF-0218"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "נבון",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Endocrinology",
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים",
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 18,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "052-3164541",
+    "availability": {
+      "שלישי": [
+        "08:00-12:00",
+        "18:00-23:00",
+        "14:00-22:00"
+      ],
+      "רביעי": [
+        "20:00-23:00",
+        "20:00-23:00",
+        "14:00-18:00",
+        "14:00-22:00",
+        "14:00-18:00"
+      ],
+      "חמישי": [
+        "14:00-23:00",
+        "06:00-10:00"
+      ],
+      "שני": [
+        "10:00-20:00"
+      ]
+    },
+    "id": "STAFF-0219"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "אלמוג",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology",
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים",
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 17,
+    "education_years": 10,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-6991191",
+    "availability": {
+      "רביעי": [
+        "20:00-23:00",
+        "16:00-22:00"
+      ],
+      "חמישי": [
+        "08:00-18:00",
+        "16:00-23:00",
+        "10:00-20:00"
+      ],
+      "שני": [
+        "20:00-23:00"
+      ],
+      "שלישי": [
+        "10:00-14:00"
+      ],
+      "ראשון": [
+        "10:00-20:00",
+        "18:00-23:00"
+      ],
+      "שישי": [
+        "16:00-22:00",
+        "20:00-23:00"
+      ]
+    },
+    "id": "STAFF-0220"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "פרידמן",
+    "role": "רופא",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 21,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "056-1944274",
+    "availability": {
+      "שלישי": [
+        "06:00-14:00",
+        "20:00-23:00",
+        "06:00-10:00"
+      ],
+      "רביעי": [
+        "12:00-16:00",
+        "06:00-14:00",
+        "16:00-23:00"
+      ],
+      "שישי": [
+        "10:00-14:00",
+        "10:00-16:00",
+        "14:00-20:00"
+      ],
+      "חמישי": [
+        "18:00-22:00"
+      ],
+      "שני": [
+        "14:00-20:00"
+      ]
+    },
+    "id": "STAFF-0221"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "הרשקוביץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Endocrinology",
+      "Pediatric Cardiology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים",
+      "קרדיולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 28,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "050-9275153",
+    "availability": {
+      "שני": [
+        "12:00-20:00",
+        "06:00-14:00"
+      ],
+      "חמישי": [
+        "16:00-23:00",
+        "16:00-22:00",
+        "06:00-14:00"
+      ],
+      "שישי": [
+        "20:00-23:00",
+        "10:00-18:00",
+        "20:00-23:00",
+        "20:00-23:00"
+      ],
+      "שלישי": [
+        "08:00-12:00"
+      ],
+      "ראשון": [
+        "18:00-23:00"
+      ]
+    },
+    "id": "STAFF-0222"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "הרשקוביץ",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 16,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-7144440",
+    "availability": {
+      "שני": [
+        "18:00-23:00",
+        "10:00-16:00"
+      ],
+      "שישי": [
+        "16:00-22:00",
+        "16:00-22:00"
+      ],
+      "חמישי": [
+        "10:00-14:00",
+        "08:00-14:00"
+      ],
+      "רביעי": [
+        "10:00-16:00",
+        "14:00-23:00"
+      ],
+      "ראשון": [
+        "10:00-14:00",
+        "06:00-16:00",
+        "18:00-22:00"
+      ]
+    },
+    "id": "STAFF-0223"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "ברק",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Gastroenterology",
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים",
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 28,
+    "education_years": 10,
+    "degree_type": "MD מומחה",
+    "phone_number": "059-6691051",
+    "availability": {
+      "שלישי": [
+        "10:00-14:00",
+        "20:00-23:00",
+        "10:00-14:00",
+        "08:00-12:00"
+      ],
+      "שישי": [
+        "10:00-14:00",
+        "08:00-18:00",
+        "14:00-23:00",
+        "12:00-20:00"
+      ],
+      "ראשון": [
+        "06:00-14:00"
+      ],
+      "שני": [
+        "10:00-14:00",
+        "16:00-22:00"
+      ]
+    },
+    "id": "STAFF-0224"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "אלמוג",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 13,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "059-2860515",
+    "availability": {
+      "שישי": [
+        "14:00-20:00",
+        "20:00-23:00",
+        "08:00-14:00"
+      ],
+      "רביעי": [
+        "10:00-20:00"
+      ],
+      "חמישי": [
+        "14:00-20:00",
+        "18:00-23:00"
+      ],
+      "שני": [
+        "06:00-14:00",
+        "16:00-23:00",
+        "08:00-18:00"
+      ],
+      "שלישי": [
+        "16:00-22:00"
+      ]
+    },
+    "id": "STAFF-0225"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "ישראלי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine",
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים",
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 21,
+    "education_years": 10,
+    "degree_type": "MD מומחה",
+    "phone_number": "056-7623048",
+    "availability": {
+      "ראשון": [
+        "10:00-14:00"
+      ],
+      "שלישי": [
+        "16:00-20:00",
+        "12:00-22:00",
+        "08:00-18:00",
+        "10:00-18:00"
+      ],
+      "שני": [
+        "06:00-10:00"
+      ],
+      "רביעי": [
+        "16:00-23:00",
+        "20:00-23:00"
+      ],
+      "שישי": [
+        "20:00-23:00",
+        "16:00-23:00"
+      ]
+    },
+    "id": "STAFF-0226"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "שטרן",
+    "role": "רופא",
+    "specialties_english": [
+      "Emergency Pediatric Support",
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים",
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 28,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "057-7123499",
+    "availability": {
+      "שני": [
+        "16:00-23:00",
+        "12:00-18:00"
+      ],
+      "שלישי": [
+        "18:00-23:00",
+        "06:00-16:00"
+      ],
+      "שישי": [
+        "12:00-16:00",
+        "14:00-22:00",
+        "10:00-16:00"
+      ],
+      "רביעי": [
+        "08:00-16:00"
+      ],
+      "חמישי": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0227"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "הרשקוביץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 24,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-3044942",
+    "availability": {
+      "ראשון": [
+        "20:00-23:00",
+        "20:00-23:00",
+        "12:00-18:00",
+        "12:00-18:00",
+        "14:00-20:00"
+      ],
+      "שלישי": [
+        "06:00-12:00"
+      ],
+      "חמישי": [
+        "10:00-14:00",
+        "18:00-23:00",
+        "20:00-23:00",
+        "16:00-23:00"
+      ],
+      "רביעי": [
+        "08:00-12:00",
+        "18:00-23:00"
+      ],
+      "שני": [
+        "14:00-18:00"
+      ]
+    },
+    "id": "STAFF-0228"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "מזרחי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 10,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-3912540",
+    "availability": {
+      "רביעי": [
+        "18:00-23:00",
+        "16:00-22:00"
+      ],
+      "ראשון": [
+        "08:00-14:00"
+      ],
+      "שלישי": [
+        "10:00-18:00",
+        "10:00-14:00",
+        "18:00-22:00"
+      ],
+      "שישי": [
+        "16:00-23:00",
+        "14:00-22:00"
+      ],
+      "שני": [
+        "08:00-18:00"
+      ],
+      "חמישי": [
+        "12:00-18:00"
+      ]
+    },
+    "id": "STAFF-0229"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "כץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "General Pediatrics"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 18,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "055-6217108",
+    "availability": {
+      "ראשון": [
+        "18:00-23:00",
+        "08:00-18:00",
+        "20:00-23:00"
+      ],
+      "שני": [
+        "16:00-23:00",
+        "20:00-23:00"
+      ],
+      "חמישי": [
+        "12:00-16:00",
+        "06:00-14:00",
+        "14:00-22:00"
+      ],
+      "רביעי": [
+        "16:00-20:00"
+      ],
+      "שלישי": [
+        "14:00-20:00"
+      ],
+      "שישי": [
+        "14:00-18:00"
+      ]
+    },
+    "id": "STAFF-0230"
+  },
+  {
+    "first_name": "אופק",
+    "last_name": "לוי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Pulmonology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ריאות ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 23,
+    "education_years": 14,
+    "degree_type": "MD מומחה",
+    "phone_number": "050-9306048",
+    "availability": {
+      "חמישי": [
+        "10:00-16:00"
+      ],
+      "שני": [
+        "08:00-16:00"
+      ],
+      "שלישי": [
+        "06:00-10:00",
+        "06:00-14:00"
+      ],
+      "רביעי": [
+        "12:00-20:00",
+        "18:00-22:00"
+      ],
+      "שישי": [
+        "16:00-22:00",
+        "16:00-23:00",
+        "20:00-23:00"
+      ],
+      "ראשון": [
+        "18:00-23:00",
+        "16:00-23:00"
+      ]
+    },
+    "id": "STAFF-0231"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "מזרחי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Endocrinology",
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים",
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "056-5242581",
+    "availability": {
+      "חמישי": [
+        "08:00-18:00",
+        "08:00-18:00"
+      ],
+      "שני": [
+        "08:00-14:00",
+        "12:00-18:00"
+      ],
+      "ראשון": [
+        "12:00-20:00",
+        "08:00-12:00"
+      ],
+      "שישי": [
+        "16:00-23:00",
+        "10:00-20:00"
+      ],
+      "שלישי": [
+        "12:00-20:00"
+      ]
+    },
+    "id": "STAFF-0232"
+  },
+  {
+    "first_name": "נועה",
+    "last_name": "מזרחי",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 19,
+    "education_years": 14,
+    "degree_type": "MD מומחה",
+    "phone_number": "053-7689372",
+    "availability": {
+      "שלישי": [
+        "18:00-23:00",
+        "08:00-12:00",
+        "06:00-14:00"
+      ],
+      "שני": [
+        "14:00-22:00"
+      ],
+      "רביעי": [
+        "10:00-14:00",
+        "18:00-23:00",
+        "06:00-14:00"
+      ],
+      "ראשון": [
+        "18:00-23:00",
+        "08:00-18:00"
+      ],
+      "שישי": [
+        "18:00-22:00"
+      ],
+      "חמישי": [
+        "10:00-14:00"
+      ]
+    },
+    "id": "STAFF-0233"
+  },
+  {
+    "first_name": "אייל",
+    "last_name": "לוי",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Dermatology",
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עור ילדים",
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 17,
+    "education_years": 10,
+    "degree_type": "MD מומחה",
+    "phone_number": "054-8445193",
+    "availability": {
+      "שני": [
+        "08:00-14:00"
+      ],
+      "שלישי": [
+        "10:00-20:00"
+      ],
+      "שישי": [
+        "14:00-18:00",
+        "10:00-20:00",
+        "14:00-23:00",
+        "06:00-14:00",
+        "20:00-23:00"
+      ],
+      "רביעי": [
+        "10:00-16:00"
+      ],
+      "ראשון": [
+        "06:00-16:00"
+      ]
+    },
+    "id": "STAFF-0234"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "כהן",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 26,
+    "education_years": 14,
+    "degree_type": "MD מומחה",
+    "phone_number": "057-7075206",
+    "availability": {
+      "חמישי": [
+        "14:00-23:00",
+        "10:00-16:00",
+        "20:00-23:00",
+        "12:00-18:00"
+      ],
+      "שלישי": [
+        "10:00-14:00",
+        "18:00-23:00",
+        "08:00-18:00"
+      ],
+      "רביעי": [
+        "18:00-23:00",
+        "12:00-22:00"
+      ],
+      "ראשון": [
+        "12:00-16:00"
+      ]
+    },
+    "id": "STAFF-0235"
+  },
+  {
+    "first_name": "הילה",
+    "last_name": "שחר",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 22,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "051-3120230",
+    "availability": {
+      "שני": [
+        "06:00-10:00",
+        "16:00-22:00",
+        "10:00-20:00"
+      ],
+      "שישי": [
+        "18:00-22:00",
+        "18:00-22:00",
+        "20:00-23:00",
+        "06:00-12:00"
+      ],
+      "חמישי": [
+        "18:00-23:00"
+      ],
+      "רביעי": [
+        "16:00-22:00",
+        "06:00-14:00"
+      ],
+      "ראשון": [
+        "18:00-23:00"
+      ]
+    },
+    "id": "STAFF-0236"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "רוזנברג",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "051-4495641",
+    "availability": {
+      "רביעי": [
+        "08:00-16:00",
+        "06:00-12:00"
+      ],
+      "שלישי": [
+        "14:00-23:00"
+      ],
+      "חמישי": [
+        "20:00-23:00",
+        "08:00-18:00",
+        "14:00-20:00"
+      ],
+      "שני": [
+        "08:00-16:00"
+      ],
+      "ראשון": [
+        "08:00-18:00"
+      ]
+    },
+    "id": "STAFF-0237"
+  },
+  {
+    "first_name": "יובל",
+    "last_name": "הרשקוביץ",
+    "role": "רופא",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 18,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "059-8480566",
+    "availability": {
+      "חמישי": [
+        "12:00-16:00",
+        "18:00-23:00"
+      ],
+      "שישי": [
+        "16:00-23:00",
+        "20:00-23:00",
+        "12:00-22:00",
+        "16:00-20:00"
+      ],
+      "ראשון": [
+        "20:00-23:00",
+        "10:00-18:00"
+      ],
+      "שני": [
+        "18:00-22:00"
+      ],
+      "שלישי": [
+        "18:00-23:00",
+        "20:00-23:00"
+      ],
+      "רביעי": [
+        "14:00-22:00"
+      ]
+    },
+    "id": "STAFF-0238"
+  },
+  {
+    "first_name": "אורי",
+    "last_name": "שחר",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Allergy and Immunology",
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אימונולוגיה ואלרגיה ילדים",
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 25,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-3995283",
+    "availability": {
+      "רביעי": [
+        "08:00-18:00"
+      ],
+      "חמישי": [
+        "10:00-16:00",
+        "06:00-14:00",
+        "16:00-20:00",
+        "12:00-20:00"
+      ],
+      "ראשון": [
+        "08:00-14:00",
+        "20:00-23:00"
+      ],
+      "שלישי": [
+        "16:00-23:00",
+        "12:00-22:00"
+      ]
+    },
+    "id": "STAFF-0239"
+  },
+  {
+    "first_name": "רועי",
+    "last_name": "שטרן",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Ophthalmology",
+      "Child and Adolescent Psychiatry"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים",
+      "פסיכיאטריה ילדים ונוער"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 25,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "058-4570853",
+    "availability": {
+      "ראשון": [
+        "16:00-23:00",
+        "16:00-20:00"
+      ],
+      "שישי": [
+        "06:00-12:00"
+      ],
+      "רביעי": [
+        "08:00-16:00"
+      ],
+      "שני": [
+        "16:00-23:00",
+        "16:00-20:00",
+        "08:00-12:00",
+        "10:00-20:00",
+        "12:00-22:00"
+      ]
+    },
+    "id": "STAFF-0240"
+  },
+  {
+    "first_name": "אלון",
+    "last_name": "אביב",
+    "role": "רופאה",
+    "specialties_english": [
+      "General Pediatrics",
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית",
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 21,
+    "education_years": 10,
+    "degree_type": "MD מומחה",
+    "phone_number": "052-9264905",
+    "availability": {
+      "שישי": [
+        "20:00-23:00",
+        "10:00-20:00",
+        "16:00-20:00"
+      ],
+      "שלישי": [
+        "20:00-23:00",
+        "12:00-16:00",
+        "12:00-20:00"
+      ],
+      "רביעי": [
+        "14:00-22:00",
+        "06:00-10:00",
+        "08:00-12:00"
+      ],
+      "שני": [
+        "06:00-10:00",
+        "10:00-18:00"
+      ]
+    },
+    "id": "STAFF-0241"
+  },
+  {
+    "first_name": "תמר",
+    "last_name": "אביב",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Gastroenterology",
+      "Pediatric Ophthalmology"
+    ],
+    "specialties_hebrew": [
+      "גסטרואנטרולוגיה ילדים",
+      "רפואת עיניים ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 30,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "053-2915889",
+    "availability": {
+      "רביעי": [
+        "14:00-23:00",
+        "10:00-16:00",
+        "08:00-12:00",
+        "16:00-22:00"
+      ],
+      "שישי": [
+        "12:00-22:00",
+        "16:00-23:00"
+      ],
+      "שלישי": [
+        "08:00-18:00"
+      ],
+      "חמישי": [
+        "06:00-14:00"
+      ]
+    },
+    "id": "STAFF-0242"
+  },
+  {
+    "first_name": "נדב",
+    "last_name": "הרשקוביץ",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Ophthalmology",
+      "Pediatric Neurology"
+    ],
+    "specialties_hebrew": [
+      "רפואת עיניים ילדים",
+      "נוירולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 13,
+    "education_years": 10,
+    "degree_type": "MD מומחה",
+    "phone_number": "055-1717053",
+    "availability": {
+      "שני": [
+        "20:00-23:00",
+        "18:00-23:00",
+        "10:00-20:00",
+        "14:00-18:00",
+        "18:00-23:00",
+        "18:00-22:00"
+      ],
+      "רביעי": [
+        "08:00-12:00",
+        "20:00-23:00"
+      ],
+      "שלישי": [
+        "08:00-16:00"
+      ],
+      "ראשון": [
+        "16:00-20:00"
+      ],
+      "חמישי": [
+        "08:00-16:00"
+      ],
+      "שישי": [
+        "06:00-10:00"
+      ]
+    },
+    "id": "STAFF-0243"
+  },
+  {
+    "first_name": "מאיה",
+    "last_name": "לוי",
+    "role": "רופאה",
+    "specialties_english": [
+      "General Pediatrics",
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "רפואת ילדים כללית",
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 18,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "055-9172360",
+    "availability": {
+      "חמישי": [
+        "18:00-23:00",
+        "12:00-22:00"
+      ],
+      "ראשון": [
+        "06:00-16:00"
+      ],
+      "שישי": [
+        "14:00-22:00",
+        "10:00-16:00"
+      ],
+      "שלישי": [
+        "16:00-23:00",
+        "08:00-14:00",
+        "12:00-22:00"
+      ]
+    },
+    "id": "STAFF-0244"
+  },
+  {
+    "first_name": "מיקה",
+    "last_name": "שטרן",
+    "role": "רופא",
+    "specialties_english": [
+      "Pediatric Neurology",
+      "Pediatric Rehabilitation Medicine"
+    ],
+    "specialties_hebrew": [
+      "נוירולוגיה ילדים",
+      "רפואת שיקום ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 19,
+    "education_years": 12,
+    "degree_type": "MD מומחה",
+    "phone_number": "051-7845381",
+    "availability": {
+      "חמישי": [
+        "12:00-18:00",
+        "08:00-16:00",
+        "10:00-14:00",
+        "14:00-23:00"
+      ],
+      "רביעי": [
+        "14:00-18:00",
+        "10:00-20:00"
+      ],
+      "שישי": [
+        "06:00-16:00",
+        "14:00-23:00",
+        "14:00-18:00"
+      ],
+      "ראשון": [
+        "14:00-18:00"
+      ]
+    },
+    "id": "STAFF-0245"
+  },
+  {
+    "first_name": "גילי",
+    "last_name": "פרידמן",
+    "role": "רופא",
+    "specialties_english": [
+      "Emergency Pediatric Support"
+    ],
+    "specialties_hebrew": [
+      "תמיכה רפואית דחופה לילדים"
+    ],
+    "workplace": "קהילה",
+    "experience_years": 21,
+    "education_years": 13,
+    "degree_type": "MD מומחה",
+    "phone_number": "055-6484313",
+    "availability": {
+      "רביעי": [
+        "10:00-20:00"
+      ],
+      "חמישי": [
+        "08:00-16:00"
+      ],
+      "שישי": [
+        "14:00-23:00",
+        "06:00-12:00"
+      ],
+      "ראשון": [
+        "06:00-16:00",
+        "20:00-23:00",
+        "06:00-14:00"
+      ],
+      "שלישי": [
+        "18:00-22:00",
+        "10:00-16:00"
+      ]
+    },
+    "id": "STAFF-0246"
+  },
+  {
+    "first_name": "ליה",
+    "last_name": "רוזנברג",
+    "role": "רופאה",
+    "specialties_english": [
+      "Pediatric Endocrinology"
+    ],
+    "specialties_hebrew": [
+      "אנדוקרינולוגיה ילדים"
+    ],
+    "workplace": "בית חולים",
+    "experience_years": 20,
+    "education_years": 11,
+    "degree_type": "MD מומחה",
+    "phone_number": "052-1021739",
+    "availability": {
+      "חמישי": [
+        "16:00-20:00",
+        "12:00-22:00"
+      ],
+      "שישי": [
+        "12:00-22:00"
+      ],
+      "שני": [
+        "18:00-23:00"
+      ],
+      "רביעי": [
+        "14:00-18:00"
+      ],
+      "ראשון": [
+        "12:00-22:00",
+        "06:00-10:00"
+      ],
+      "שלישי": [
+        "10:00-20:00",
+        "14:00-20:00"
+      ]
+    },
+    "id": "STAFF-0247"
+  }
+]
