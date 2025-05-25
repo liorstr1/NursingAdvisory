@@ -4,18 +4,16 @@ NURSING_ADVISORY_COLLECTION_NAME = "nursing_advisory_data"
 LOCAL = "local"
 DEV = "dev"
 PROD = "prod"
+DEFAULT_CLAUDE_MODEL = "claude-3-5-sonnet-latest"
+
+USER_TO_MANAGER = "user_to_manager"
+MANAGER_TO_USER = "manager_to_user"
+MANAGER_TO_STAFF = "manager_to_staff"
+STAFF_TO_MANAGER = "staff_to_manager"
+
 
 ADVISORY_MANAGER = "advisory_manager"
-
-# pub sub entities
-# incoming pubsubs
-FROM_USERS_PUBSUB = "from_users"
-FROM_STAFF_PUBSUB = "from_staff"
-
-# outgoing pubsubs
-TO_USERS_PUBSUB = "to_users"
-TO_STAFF_PUBSUB = "to_staff"
-
+USER = "user"
 MAIN_ADVISORY_PUBSUB_PREFIX = "main_advisory"
 ADVISORY_TOPIC_NAME = "advisory_topic"
 ADVISORY_SUBSCRIPTION_NAME = "advisory_subscription"

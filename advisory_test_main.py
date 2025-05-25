@@ -73,8 +73,6 @@ async def run_main_test():
     # Run your test here
     print("Running test one session")
     test_active_one_session()
-
-
     # Add your actual test code here
     print("Simulating test operations...")
 

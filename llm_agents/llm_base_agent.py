@@ -1,14 +1,15 @@
 import json
 import os
 
-import OpenAI
+from openai import OpenAI
 from google import genai
 from anthropic import Anthropic
 from langchain_core.output_parsers import PydanticOutputParser
 from pydantic import BaseModel
-from entities import PROJECT_NAME, AgentType
+from entities import PROJECT_NAME, DEFAULT_CLAUDE_MODEL
 from services.secret_manager_service import SecretManagerService
 from dotenv import load_dotenv
+
 load_dotenv()
 
 
@@ -22,7 +23,7 @@ class LLMBaseAgent:
         self.output_parser = None
         self.agent_name = ""
         self.agent_charcter = ""
-        self.agent_description = ""
+        self.event_description = ""
         self.system_prompt = ""
         self.user_prompt = ""
         self.output_classes = UserRequest
@@ -41,18 +42,29 @@ class LLMBaseAgent:
             api_key=self._get_openai_api_key(),
         )
 
-    def update_parser(self):
-        self.output_parser = PydanticOutputParser(pydantic_object=self.output_classes)
+    def update_agent_info(self, agent_info):
+        self.agent_name = agent_info.get("agent_name", "")
+        self.agent_charcter = agent_info.get("agent_charcter", "")
+        self.event_description = agent_info.get("event_description", "")
+        self.system_prompt = agent_info.get("system_prompt", "")
+        self.user_prompt = agent_info.get("user_prompt", "")
+        self.output_classes = agent_info.get("output_classes", UserRequest)
+        self.available_actions = agent_info.get("available_actions", [])
+        self.available_handlers = agent_info.get("available_handlers", [])
+        self.system_message = agent_info.get("system_message", "")
+
+    def update_parser(self, user_output: BaseModel):
+        self.output_parser = PydanticOutputParser(pydantic_object=user_output)
         self.format_instructions = self.output_parser.get_format_instructions()
 
     def get_system_prompt(self):
         return self.system_prompt.format(
             agent_name=self.agent_name,
             agent_character=self.agent_charcter,
-            agent_description=self.agent_description,
-            available_actions=self.available_actions,
-            available_handlers=self.available_handlers,
-            system_message=self.system_message,
+            event_description=self.event_description,
+            # available_actions=self.available_actions,
+            # available_handlers=self.available_handlers,
+            # system_message=self.system_message,
             output_format=self.format_instructions
         )
 
@@ -61,18 +73,18 @@ class LLMBaseAgent:
             chat_history=chat_history
         )
 
-    async def generate_response_from_anthropic(
+    def generate_response_from_anthropic(
             self,
             chat_history=None,
             max_tokens=1000,
-            anthropic_model="claude-3-5-sonnet-latest"
+            model=DEFAULT_CLAUDE_MODEL
     ):
         if chat_history is None:
             chat_history = []
         system_prompt = self.get_system_prompt()
         user_prompt = self.get_user_prompt(chat_history)
         message = self.anthropic_client.messages.create(
-            model=anthropic_model,
+            model=model,
             max_tokens=max_tokens,
             system=system_prompt,
             messages=[
@@ -84,47 +96,113 @@ class LLMBaseAgent:
         )
         try:
             parsed_response = self.output_parser.parse(message.content[0].text)
-            return parsed_response.response
+            return parsed_response.next_message
         except Exception as e:
             print(f"Error parsing response: {e}")
             return None
 
+    def generate_response_from_openai(
+            self,
+            chat_history=None,
+            max_tokens=1000,
+            model="gpt-4o"
+    ):
+        if chat_history is None:
+            chat_history = []
+        system_prompt = self.get_system_prompt()
+        user_prompt = self.get_user_prompt(chat_history)
+
+        messages = [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ]
+
+        try:
+            response = self.openai_client.chat.completions.create(
+                model=model,
+                messages=messages,
+                max_tokens=max_tokens,
+                temperature=0.7
+            )
+
+            response_text = response.choices[0].message.content
+            parsed_response = self.output_parser.parse(response_text)
+            return parsed_response.next_message
+        except Exception as e:
+            print(f"Error generating OpenAI response: {e}")
+            return None
+
+    def generate_response_from_gemini(
+            self,
+            chat_history=None,
+            max_tokens=1000,
+            model="gemini-2.5-pro"
+    ):
+        if chat_history is None:
+            chat_history = []
+        system_prompt = self.get_system_prompt()
+        user_prompt = self.get_user_prompt(chat_history)
+
+        # שילוב system prompt עם user prompt עבור Gemini
+        full_prompt = f"{system_prompt}\n\nUser: {user_prompt}"
+
+        try:
+            response = self.gemini_client.models.generate_content(
+                model=f"models/{model}",
+                contents=[{
+                    "parts": [{"text": full_prompt}]
+                }],
+            )
+
+            response_text = response.candidates[0].content.parts[0].text
+            parsed_response = self.output_parser.parse(response_text)
+            return parsed_response.next_message
+        except Exception as e:
+            print(f"Error generating Gemini response: {e}")
+            return None
+
+    def generate_response(
+            self,
+            provider="anthropic",
+            chat_history=None,
+            max_tokens=1000,
+            model=None
+    ):
+        if provider.lower() == "anthropic":
+            model = model or DEFAULT_CLAUDE_MODEL
+            return self.generate_response_from_anthropic(chat_history, max_tokens, model)
+        elif provider.lower() == "openai":
+            model = model or "gpt-4o"
+            return self.generate_response_from_openai(chat_history, max_tokens, model)
+        elif provider.lower() == "gemini":
+            model = model or "gemini-1.5-pro"
+            return self.generate_response_from_gemini(chat_history, max_tokens, model)
+        else:
+            raise ValueError(f"Unsupported provider: {provider}")
+
     def _get_anthropic_api_key(self):
-        anthropic_api_key = None
         try:
             secrets = json.loads(self.secret_manager.access_secret(PROJECT_NAME))
             anthropic_api_key = secrets["claude_key"]
         except Exception as e:
             print(f"Error accessing Anthropic API key from secret manager: {e}")
             anthropic_api_key = os.getenv("LOCAL_CLAUDE_KEY")
-        finally:
-            return anthropic_api_key
+        return anthropic_api_key
 
     def _get_openai_api_key(self):
-        openai_api_key = None
         try:
             secrets = json.loads(self.secret_manager.access_secret(PROJECT_NAME))
             openai_api_key = secrets["openai_key"]
         except Exception as e:
-            print(f"Error accessing Anthropic API key from secret manager: {e}")
+            print(f"Error accessing OpenAI API key from secret manager: {e}")
             openai_api_key = os.getenv("LOCAL_OPENAI_KEY")
-        finally:
-            return openai_api_key
+        return openai_api_key
 
     def _get_gemini_api_key(self):
-        gemini_api_key = None
         try:
             secrets = json.loads(self.secret_manager.access_secret(PROJECT_NAME))
             gemini_api_key = secrets["gemini_key"]
         except Exception as e:
-            print(f"Error accessing Anthropic API key from secret manager: {e}")
+            print(f"Error accessing Gemini API key from secret manager: {e}")
             gemini_api_key = os.getenv("LOCAL_GEMINI_KEY")
-        finally:
-            return gemini_api_key
-
-
-
-
-
-
-
+        return gemini_api_key
