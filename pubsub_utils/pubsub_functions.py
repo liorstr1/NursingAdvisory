@@ -1,4 +1,6 @@
 from abc import ABC, abstractmethod
+
+from entities import SECRET_SERVICE_NAME
 from pubsub_utils.pubsub_service import PubSubService
 from services.secret_manager_service import SecretManagerService
 from dotenv import load_dotenv
@@ -12,13 +14,13 @@ class PubsubFunctions(ABC):
         self.sending_to = []
         self.listen_to = []
         self.pubsub_postfix = get_pubsub_postfix()
-        self.pubsub_service = PubSubService('botit1')
-        self.secret_manager = SecretManagerService('botit1')
+        self.pubsub_service = PubSubService(SECRET_SERVICE_NAME)
+        self.secret_manager = SecretManagerService(SECRET_SERVICE_NAME)
 
         type_to_sub = TypeToPubsub(agent_permissions)
         for listen_topic in type_to_sub.listen_to:
-            print(f"{agent_name} subscribing to {listen_topic}")
-            current_topic = f"{listen_topic}_{self.pubsub_postfix}"
+            current_topic = f"{listen_topic}{self.pubsub_postfix}"
+            print(f"{agent_name} listening to {current_topic}")
             self.pubsub_service.subscribe_to_topic(
                 topic_name=f"{current_topic}",
                 subscription_name=f"{current_topic}_subscription",
@@ -27,7 +29,7 @@ class PubsubFunctions(ABC):
             self.listen_to.append(f"{current_topic}")
 
         for outgoing_topic in type_to_sub.sending_to:
-            current_topic = f"{outgoing_topic}_{self.pubsub_postfix}"
+            current_topic = f"{outgoing_topic}{self.pubsub_postfix}"
             self.sending_to.append(current_topic)
 
     @abstractmethod

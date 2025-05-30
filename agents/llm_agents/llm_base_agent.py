@@ -1,15 +1,13 @@
 import json
 import os
-
 from openai import OpenAI
 from google import genai
 from anthropic import Anthropic
 from langchain_core.output_parsers import PydanticOutputParser
 from pydantic import BaseModel
-from entities import PROJECT_NAME, DEFAULT_CLAUDE_MODEL
+from entities import PROJECT_NAME, DEFAULT_CLAUDE_MODEL, SECRET_SERVICE_NAME
 from services.secret_manager_service import SecretManagerService
 from dotenv import load_dotenv
-
 load_dotenv()
 
 
@@ -30,7 +28,7 @@ class LLMBaseAgent:
         self.available_actions = []
         self.available_handlers = []
         self.system_message = ""
-        self.secret_manager = SecretManagerService("Botit1")
+        self.secret_manager = SecretManagerService(SECRET_SERVICE_NAME)
 
         self.anthropic_client = Anthropic(
             api_key=self._get_anthropic_api_key(),
@@ -57,6 +55,10 @@ class LLMBaseAgent:
         self.output_parser = PydanticOutputParser(pydantic_object=user_output)
         self.format_instructions = self.output_parser.get_format_instructions()
 
+    def update_prompts(self, chat_history):
+        self.system_prompt = self.get_system_prompt()
+        self.user_prompt = self.get_user_prompt(chat_history)
+
     def get_system_prompt(self):
         return self.system_prompt.format(
             agent_name=self.agent_name,
@@ -75,22 +77,17 @@ class LLMBaseAgent:
 
     def generate_response_from_anthropic(
             self,
-            chat_history=None,
             max_tokens=1000,
             model=DEFAULT_CLAUDE_MODEL
     ):
-        if chat_history is None:
-            chat_history = []
-        system_prompt = self.get_system_prompt()
-        user_prompt = self.get_user_prompt(chat_history)
         message = self.anthropic_client.messages.create(
             model=model,
             max_tokens=max_tokens,
-            system=system_prompt,
+            system=self.system_prompt,
             messages=[
                 {
                     "role": "user",
-                    "content": user_prompt
+                    "content": self.user_prompt
                 },
             ]
         )
@@ -103,20 +100,13 @@ class LLMBaseAgent:
 
     def generate_response_from_openai(
             self,
-            chat_history=None,
             max_tokens=1000,
             model="gpt-4o"
     ):
-        if chat_history is None:
-            chat_history = []
-        system_prompt = self.get_system_prompt()
-        user_prompt = self.get_user_prompt(chat_history)
-
         messages = [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt}
+            {"role": "system", "content": self.system_prompt},
+            {"role": "user", "content": self.user_prompt}
         ]
-
         try:
             response = self.openai_client.chat.completions.create(
                 model=model,
@@ -134,18 +124,9 @@ class LLMBaseAgent:
 
     def generate_response_from_gemini(
             self,
-            chat_history=None,
-            max_tokens=1000,
             model="gemini-2.5-pro"
     ):
-        if chat_history is None:
-            chat_history = []
-        system_prompt = self.get_system_prompt()
-        user_prompt = self.get_user_prompt(chat_history)
-
-        # שילוב system prompt עם user prompt עבור Gemini
-        full_prompt = f"{system_prompt}\n\nUser: {user_prompt}"
-
+        full_prompt = f"{self.system_prompt}\n\nUser: {self.user_prompt}"
         try:
             response = self.gemini_client.models.generate_content(
                 model=f"models/{model}",
@@ -160,25 +141,6 @@ class LLMBaseAgent:
         except Exception as e:
             print(f"Error generating Gemini response: {e}")
             return None
-
-    def generate_response(
-            self,
-            provider="anthropic",
-            chat_history=None,
-            max_tokens=1000,
-            model=None
-    ):
-        if provider.lower() == "anthropic":
-            model = model or DEFAULT_CLAUDE_MODEL
-            return self.generate_response_from_anthropic(chat_history, max_tokens, model)
-        elif provider.lower() == "openai":
-            model = model or "gpt-4o"
-            return self.generate_response_from_openai(chat_history, max_tokens, model)
-        elif provider.lower() == "gemini":
-            model = model or "gemini-1.5-pro"
-            return self.generate_response_from_gemini(chat_history, max_tokens, model)
-        else:
-            raise ValueError(f"Unsupported provider: {provider}")
 
     def _get_anthropic_api_key(self):
         try:

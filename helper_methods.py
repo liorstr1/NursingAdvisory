@@ -2,8 +2,7 @@ import os
 from datetime import datetime
 import pytz
 from dotenv import load_dotenv
-
-from entities import DEV, PROD, LOCAL
+from entities import DEV, PROD
 
 load_dotenv()
 
@@ -52,5 +51,5 @@ def get_time_in_epoc():
 
 
 def get_pubsub_postfix():
-    is_local = os.getenv("ENVIRONMENT") == LOCAL or os.getenv("ENVIRONMENT") == DEV
+    is_local = os.getenv("ENVIRONMENT") == "local" or os.getenv("ENVIRONMENT") == "dev"
     return DEV if is_local else PROD

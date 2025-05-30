@@ -3,7 +3,8 @@ import threading
 import time
 import signal
 import sys
-from main_advisory_center import AdvisoryCenter
+from all_classes.advisory_center_class import AdvisoryCenter
+from run_one_test import test_active_one_session
 
 advisory_center = None
 keep_running = True
@@ -72,24 +73,8 @@ async def run_main_test():
 
     # Run your test here
     print("Running test one session")
-    test_active_one_session()
-    # Add your actual test code here
-    print("Simulating test operations...")
-
-    # Example: Test PubSub connectivity
-    print("Testing PubSub connectivity...")
-    # Your PubSub test code here
-
-    # Example: Test message handling
-    print("Testing message handling...")
-    # Your message handling test code here
-
-    # Example: Test database operations
-    print("Testing database operations...")
-    # Your database test code here
-
-    print("Test completed. Advisory center still running.")
-    return True  # Return success/failure status
+    test_active_one_session(advisory_center)
+    return True
 
 
 if __name__ == "__main__":

@@ -3,8 +3,11 @@ import time
 import asyncio
 from dotenv import load_dotenv
 
-from agents.manager_agent import MainManagerAgent
-from running_one_session import ActiveSession
+from agents.llm_agents.all_characters_list import ALL_CHARACTERS
+from agents.manager_agent import ManagerAgent
+from all_classes.active_session_class import ActiveSession
+from entities import MANAGER
+
 load_dotenv()
 
 
@@ -20,7 +23,9 @@ class AdvisoryCenter:
         self.active_sessions: dict[str, ActiveSession] = {}
         self._lock = threading.Lock()
         self._running = False
-        self.advisory_manager = MainManagerAgent()
+
+        manager_charater = ALL_CHARACTERS[MANAGER][0]
+        self.advisory_manager = ManagerAgent("manager_1", manager_charater, MANAGER)
         print("Advisory Center initialized")
 
     def set_init_callback(self, callback):
