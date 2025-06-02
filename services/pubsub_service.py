@@ -73,8 +73,6 @@ class PubSubService:
                 return topic_path
 
     def check_or_create_subscription(self, topic_name: str, subscription_name: str):
-        """Check if subscription exists and create if not (with caching)"""
-        # Check cache first
         cache_key = f"{self.project_id}:{subscription_name}"
         if cache_key in PubSubService._subscription_cache:
             return PubSubService._subscription_cache[cache_key]
@@ -113,48 +111,49 @@ class PubSubService:
     def subscribe_to_topic(
             self, topic_name: str, subscription_name: str, message_handler
     ):
-        """Subscribe to a topic with improved error handling and performance"""
-        # Ensure topic and subscription exist
         subscription_path = self.check_or_create_subscription(topic_name, subscription_name)
 
         def callback(message, max_retries=2):
             try:
-                # Get retry count if available
                 retry_count = 0
                 if hasattr(message, 'attributes') and 'retry_count' in message.attributes:
                     retry_count = int(message.attributes['retry_count'])
 
-                # Check if we've exceeded max retries
                 if retry_count >= max_retries:
                     print(f"Message failed after {retry_count} retries, dropping message")
-                    message.ack()  # Acknowledge to remove from queue
+                    message.ack()
                     return
 
-                # Try to decode and process message
                 try:
-                    if isinstance(message.data, bytes):
-                        # Try to decode as UTF-8 with replacement for invalid chars
-                        message_str = message.data.decode('utf-8', errors='replace')
+                    decoded_message = None
 
-                        # Try JSON or tab-delimited parsing
+                    # PubSub always delivers message.data as bytes
+                    # We need to decode and parse it properly
+                    if isinstance(message.data, bytes):
                         try:
-                            if message_str.strip().startswith('{'):
-                                # Looks like JSON
+                            # Decode bytes to string
+                            message_str = message.data.decode('utf-8', errors='replace')
+
+                            # Try to parse as JSON (which should work for dict messages)
+                            try:
                                 decoded_message = json.loads(message_str)
-                            else:
-                                # Try a basic parsing for tab-delimited format
-                                # This is a simplified version - you might need to adjust based on your format
-                                parsed_message = {}
-                                # Just use the original message if parsing fails
-                                decoded_message = message.data
-                        except:
-                            # If parsing fails, log and drop
-                            print(f"Failed to parse message format, dropping: {message_str[:100]}...")
+                            except json.JSONDecodeError:
+                                # If not JSON, use as plain string
+                                decoded_message = message_str
+
+                        except UnicodeDecodeError as e:
+                            print(f"Unicode decode error: {e}")
                             message.ack()
                             return
                     else:
-                        # Not bytes, use as is
+                        # This shouldn't happen with PubSub, but handle just in case
+                        print(f"Unexpected message.data type: {type(message.data)}")
                         decoded_message = message.data
+
+                    if decoded_message is None:
+                        print(f"Failed to decode message, dropping")
+                        message.ack()
+                        return
 
                     # Process the message
                     result = message_handler(decoded_message)
@@ -165,24 +164,19 @@ class PubSubService:
                         print(f"Message handler returned False, dropping message after {retry_count} retries")
                         message.ack()
 
-                except UnicodeDecodeError:
-                    # For messages that can't be decoded properly
-                    print(f"Unicode decode error, dropping message")
-                    message.ack()
-
-                except json.JSONDecodeError:
-                    # For messages that aren't valid JSON
-                    print(f"JSON decode error, dropping message")
-                    message.ack()
-
                 except Exception as e:
                     print(f"Error processing message: {e}")
+                    print(f"Message data type: {type(message.data)}")
+                    print(f"Message data: {message.data}")
                     message.ack()
 
             except Exception as outer_e:
                 # Catch-all for any errors in the callback itself
                 print(f"Critical error in message callback, dropping message: {outer_e}")
-                message.ack()
+                try:
+                    message.ack()
+                except:
+                    pass  # In case ack also fails
 
         # Configure flow control for better performance
         flow_control = pubsub_v1.types.FlowControl(
@@ -246,6 +240,7 @@ class PubSubService:
                     del self._active_streaming_futures[key]
 
             print(f"Subscription {key} stream handler exited")
+
         subscriber_thread = threading.Thread(
             target=stream_messages,
             daemon=True,
@@ -256,10 +251,27 @@ class PubSubService:
 
         return subscriber_thread
 
-    def publish_message(self, topic_name: str, data: dict):
-        """Publish message with improved performance and error handling"""
+    def publish_message(self, topic_name: str, data):
+        """
+        Publish a message to a topic.
+        Data can be a dict, string, or bytes.
+        When dict is passed, it will be JSON-serialized.
+        """
         topic_path = self.check_or_create_topic(topic_name)
-        data_bytes = json.dumps(data).encode("utf-8")
+
+        # Convert data to bytes - PubSub always requires bytes
+        if isinstance(data, dict):
+            data_bytes = json.dumps(data, ensure_ascii=False).encode("utf-8")
+        elif isinstance(data, str):
+            data_bytes = data.encode("utf-8")
+        elif isinstance(data, bytes):
+            data_bytes = data
+        else:
+            # Try to convert to JSON
+            try:
+                data_bytes = json.dumps(data, ensure_ascii=False).encode("utf-8")
+            except (TypeError, ValueError):
+                data_bytes = str(data).encode("utf-8")
 
         try:
             future = self.publisher.publish(topic=topic_path, data=data_bytes)
@@ -267,8 +279,10 @@ class PubSubService:
             def on_publish(publish_future):
                 try:
                     message_id = publish_future.result(timeout=2)
-                    if 'message_id' in data:
-                        print(f"Published message {data['message_id']} to {topic_name}, got ID: {message_id}")
+                    if isinstance(data, dict) and 'user_id' in data:
+                        print(f"Published message from user {data['user_id']} to {topic_name}, got ID: {message_id}")
+                    else:
+                        print(f"Published message to {topic_name}, got ID: {message_id}")
                 except Exception as ex:
                     print(f"Error publishing to {topic_name}: {ex}")
 

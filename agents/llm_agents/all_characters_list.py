@@ -4,7 +4,7 @@ from entities import PATIENT, MANAGER
 
 ALL_CHARACTERS = {
     PATIENT: [
-        [PATIENT_CHARACTER_1, PatientCharacterOutput1],
+        [PATIENT_CHARACTER_1, PatientCharacterOutput1, "id01234"],
     ],
     MANAGER: [
         [MANAGER_CHARACTER_1, ManagerOutput]

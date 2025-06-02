@@ -29,5 +29,25 @@ class MongoConnection:
             "messages": [],
             "all_decisions": [],
             "staff_ids": [],
-            "session_status": "init"
+            "session_status": "init",
+            "medical_analysis": None
         })
+
+    def store_medical_analysis(self, session_id, analysis_results):
+        """
+        Store medical analysis results in the session document.
+        """
+        self.collection.update_one(
+            {"session_id": session_id},
+            {
+                "$set": {
+                    "medical_analysis": {
+                        "emergency_analysis": analysis_results.get("emergency_analysis").__dict__ if analysis_results.get("emergency_analysis") else None,
+                        "staff_analysis": analysis_results.get("staff_analysis").__dict__ if analysis_results.get("staff_analysis") else None,
+                        "details_analysis": analysis_results.get("details_analysis").__dict__ if analysis_results.get("details_analysis") else None,
+                        "session_guidance": analysis_results.get("session_guidance"),
+                        "analysis_timestamp": get_time_in_epoc()
+                    }
+                }
+            }
+        )

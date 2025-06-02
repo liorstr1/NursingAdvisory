@@ -1,11 +1,11 @@
 from abc import ABC, abstractmethod
 
 from entities import SECRET_SERVICE_NAME
-from pubsub_utils.pubsub_service import PubSubService
+from services.pubsub_service import PubSubService
 from services.secret_manager_service import SecretManagerService
 from dotenv import load_dotenv
 from helper_methods import get_pubsub_postfix
-from pubsub_utils.pubsub_permissions import TypeToPubsub
+from services.pubsub_permissions import TypeToPubsub
 load_dotenv()
 
 

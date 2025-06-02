@@ -1,7 +1,7 @@
 from entities import PATIENT
 from agents.llm_agents.all_characters_list import ALL_CHARACTERS
 from agents.llm_agents.llm_fake_patient_agent import LLMFakeUserAgent
-from pubsub_utils.pubsub_functions import PubsubFunctions
+from services.pubsub_functions import PubsubFunctions
 
 
 class UserAgent(PubsubFunctions):
@@ -21,7 +21,7 @@ class UserAgent(PubsubFunctions):
     def publish_one_message(self, message: str, topic: str):
         if self.sending_to and topic in self.sending_to:
             try:
-                print(f"{self.agent_name} Publishing to topic: {topic}, message: {message[:20]}")
+                print(f"{self.agent_name} Publishing to topic: {topic}, message: {message}")
                 self.pubsub_service.publish_message(topic, message)
             except Exception as e:
                 print(f"{self.agent_name} Failed to publish message: {message}", e)
